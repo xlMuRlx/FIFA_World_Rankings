@@ -1,6 +1,6 @@
 # TV Episodes
 
-V projektni nalogi bom analiziral epizode televizijskih serij, ki imajo na strani IMDb vsaj 1500 glasov. Podatke bom pridobil iz strani: https://www.imdb.com/search/title?num_votes=1000,&sort=user_rating,desc&title_type=tv_episode
+V projektni nalogi bom analiziral epizode televizijskih serij, ki imajo na strani IMDb vsaj 2000 glasov. Podatke bom pridobil iz strani: https://www.imdb.com/search/title?num_votes=2000,&sort=user_rating,desc&title_type=tv_episode
 
 Za vsako epizodo bom razbral:
 * naslov serije
