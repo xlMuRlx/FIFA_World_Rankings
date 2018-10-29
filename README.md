@@ -24,4 +24,4 @@ Nato pa bom serije razdelil na komične in nekomične, pri čemer bom sklepal, d
 * Katere serije so bolj gledane?
 
 
-Komentar: Za razbiranje igralcev vsake epizode se nisem odločil, saj se ponavadi igralci v isti seriji pojavljajo v (skoraj) vsaki epizodi, torej bi s tem prišel do nepotrebnega ponavljanja podatkov. To, da se neka serija pojavi večkrat, namreč razberemo že z naslovom serije.
+**Komentar**: Za razbiranje igralcev vsake epizode se nisem odločil, saj se ponavadi igralci v isti seriji pojavljajo v (skoraj) vsaki epizodi, torej bi s tem prišel do nepotrebnega ponavljanja podatkov. To, da se neka serija pojavi večkrat, namreč razberemo že z naslovom serije.
