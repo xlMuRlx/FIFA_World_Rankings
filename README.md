@@ -1,19 +1,24 @@
-# FIFA World Rankings
+# TV Episodes
 
-V projektni nalogi bom analiziral uvrstitve svetovnih držav na fifini lestvici. Podatke bom razbral iz spletne strani: https://www.transfermarkt.com/wettbewerbe/fifa/wettbewerbe?plus=1
+V projektni nalogi bom analiziral epizode televizijskih serij, ki imajo na strani IMDb vsaj 1500 glasov. Podatke bom pridobil iz strani: https://www.imdb.com/search/title?num_votes=1000,&sort=user_rating,desc&title_type=tv_episode
 
-Za vsako reprezentanco bom razbral:
-* uvrstitev
-* ime države
-* število igralcev
-* povprečno starost igralcev
-* skupno vrednost igralcev
-* konfederacijo
-* število točk
+Za vsako epizodo bom razbral:
+* naslov serije
+* naslov epizode in leto njenega izida
+* dolžino epizode
+* zvrst
+* število glasov
+* režiser
+
 
 Delovne hipoteze:
-* Kakšna je povezava med vrednostjo ekipe in njeno uvrstitvijo?
-* Katera leta so najboljša za igranje nogometa? (To bom sklepal glede na povezavo med uvrstitvijo in povprečno starostjo reprezentance)
-* Katera izmed svetovnih konfederacij je najmočnejša?
-* Kakšna je povprečna vrednost ekipe iz posamezne konfederacije?
-* Dodatek: Zaradi lastne radovednosti bom izračunal tudi katere reprezentance so najuspešnejše glede na vrednost ekipe.
+* Katera serija ima v povprečju najbolje ocenjene epizode?
+* Ali obstaja povezava med trajanjem in oceno epizode?
+* V katerem petletju je izšlo največ epizod?
+* Kateri režiser ustvarja najboljše epizode?
+* Kakšna je povezava med številom glasov in oceno?
+* Ali z se z leti kakovost serij izboljšuje?
+
+Nato pa bom serije razdelil na komične in nekomične, pri čemer bom sklepal, da je trajanje komičnih serij manj kot 30 minut (to bom seveda tudi preveril). S temi podatki bom nato primerjal zvrsti med seboj:
+* Ali so v povprečju bolje ocenjene komične ali nekomične serije?
+* Ali so bolj gledane komične ali nekomične serije?
