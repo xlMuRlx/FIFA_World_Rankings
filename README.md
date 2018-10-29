@@ -21,4 +21,4 @@ Delovne hipoteze:
 
 Nato pa bom serije razdelil na komične in nekomične, pri čemer bom sklepal, da je trajanje komičnih serij manj kot 30 minut (to bom seveda tudi preveril). S temi podatki bom nato primerjal zvrsti med seboj:
 * Ali so v povprečju bolje ocenjene komične ali nekomične serije?
-* Ali so bolj gledane komične ali nekomične serije?
+* Katere serije so bolj gledane?
