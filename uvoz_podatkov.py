@@ -43,7 +43,7 @@ vzorec_epizode = re.compile(
     r"\d\.</span>.*?<a href=.*?>(?P<serija>.*?)</a>.*?"
     r"</small>.*?<a href=.*?>(?P<epizoda>.*?)</a>.*?"
     r"<span class=\"lister-item-year text-muted unbold\">\((?P<leto>.*?)\)</span.>.*?"
-    r"<span class=\"runtime\">(?P<dolzina>.*?) min</span>.*?"
+    r"<span class=\"runtime\">(?P<dolzina>\d+) min</span>.*?"
     r"<span class=\"genre\">(?P<zvrst>.*?)</span>.*?"
     r"imdb-rating\"></span>.*?<strong>(?P<ocena>.*?)</strong>.*?"
     r"Director:.*?>(?P<reziser>.*?)</a>.*?"
@@ -51,8 +51,7 @@ vzorec_epizode = re.compile(
     re.DOTALL
 )
 
-def poisci_podatke(ujemanje):
-    podatki = ujemanje.groupdict()
+def poisci_podatke(podatki):
     podatki['serija'] = podatki['serija'].strip()
     podatki['epizoda'] = podatki['epizoda'].strip()
     podatki['leto'] = int(podatki['leto'])
@@ -64,14 +63,23 @@ def poisci_podatke(ujemanje):
     return podatki
 
 zapis_serij = []
-for i in range(1, 9):
-    vsebina = orodja.vsebina_datoteke(
-        'serije-{}.html'.format(i))
-    for ujemanje in vzorec_epizode.finditer(vsebina):
-        zapis_serij.append(poisci_podatke(ujemanje))
+for ujemanje in vzorec_epizode.finditer(besedilo):
+    podatki_epizode = poisci_podatke(ujemanje.groupdict())
+    zapis_serij.append(podatki_epizode)
+
+#zapis_serij = []
+#for i in range(1, 9):
+ #   vsebina = orodja.vsebina_datoteke(
+  #      'serije-{}.html'.format(i))
+   # for ujemanje in vzorec_epizode.finditer(vsebina):
+    #    zapis_serij.append(poisci_podatke(ujemanje))
 
 
 orodja.zapisi_json(zapis_serij, 'vse_epizode.json')
 
 orodja.zapisi_csv(zapis_serij, ["serija", "epizoda", "leto", "dolzina",
     "zvrst", "ocena", "reziser", "st_glasov"], 'vse_epizode.csv')
+
+#a = poisci_epizode(besedilo)
+#for ujemanje in vzorec_epizode.finditer(a[0]):
+#    zapis_serij.append(poisci_podatke(ujemanje))
