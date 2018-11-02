@@ -30,7 +30,7 @@ def poisci_epizode(niz):
     vzorec = re.compile(
         r"class=\"loadlate\""
         r"(.*?)"
-        r"<div class=\"lister-item-image float-left\">",
+        r"\n\n",
         re.DOTALL
         )
     seznam = []
@@ -42,8 +42,8 @@ vzorec_epizode = re.compile(
     r"<span class=\"lister-item-index unbold text-primary\">"
     r"\d\.</span>.*?<a href=.*?>(?P<serija>.*?)</a>.*?"
     r"</small>.*?<a href=.*?>(?P<epizoda>.*?)</a>.*?"
-    r"<span class=\"lister-item-year text-muted unbold\">\((?P<leto>.*?)\)</span.>.*?"
-    r"<span class=\"runtime\">(?P<dolzina>\d+) min</span>.*?"
+#    r"<span class=\"lister-item-year text-muted unbold\">\((?P<leto>\d{4})\)</span.>.*?"
+    r"<span class=\"runtime\">(?P<dolzina>.*?) min</span>.*?"
     r"<span class=\"genre\">(?P<zvrst>.*?)</span>.*?"
     r"imdb-rating\"></span>.*?<strong>(?P<ocena>.*?)</strong>.*?"
     r"Director:.*?>(?P<reziser>.*?)</a>.*?"
@@ -51,11 +51,12 @@ vzorec_epizode = re.compile(
     re.DOTALL
 )
 
-def poisci_podatke(podatki):
+def pocisti_podatke(podatki):
     podatki['serija'] = podatki['serija'].strip()
     podatki['epizoda'] = podatki['epizoda'].strip()
-    podatki['leto'] = int(podatki['leto'])
-    podatki['dolzina'] = int(['dolzina'])
+#    podatki['leto'] = int(podatki['leto'])
+    podatki['dolzina'] = int(podatki['dolzina'])
+    podatki['zvrst'] = podatki['zvrst'].strip()
     podatki['zvrst'] = podatki['zvrst'].split(',')
     podatki['ocena'] = float(podatki['ocena'])
     podatki['reziser'] = podatki['reziser'].strip()
@@ -64,22 +65,15 @@ def poisci_podatke(podatki):
 
 zapis_serij = []
 for ujemanje in vzorec_epizode.finditer(besedilo):
-    podatki_epizode = poisci_podatke(ujemanje.groupdict())
+    podatki_epizode = pocisti_podatke(ujemanje.groupdict())
     zapis_serij.append(podatki_epizode)
 
-#zapis_serij = []
-#for i in range(1, 9):
- #   vsebina = orodja.vsebina_datoteke(
-  #      'serije-{}.html'.format(i))
-   # for ujemanje in vzorec_epizode.finditer(vsebina):
-    #    zapis_serij.append(poisci_podatke(ujemanje))
 
+###############################################################################
+# Podatke še zapišemo v csv in json datoteki.
+###############################################################################
 
 orodja.zapisi_json(zapis_serij, 'vse_epizode.json')
 
 orodja.zapisi_csv(zapis_serij, ["serija", "epizoda", "leto", "dolzina",
     "zvrst", "ocena", "reziser", "st_glasov"], 'vse_epizode.csv')
-
-#a = poisci_epizode(besedilo)
-#for ujemanje in vzorec_epizode.finditer(a[0]):
-#    zapis_serij.append(poisci_podatke(ujemanje))

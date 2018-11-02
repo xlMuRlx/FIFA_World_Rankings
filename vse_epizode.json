@@ -1,1 +1,210 @@
-[]
+[
+    {
+        "serija": "Igra prestolov",
+        "epizoda": "Battle of the Bastards",
+        "dolzina": 60,
+        "zvrst": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "ocena": 9.9,
+        "reziser": "Miguel Sapochnik",
+        "st_glasov": 156.789
+    },
+    {
+        "serija": "Kriva pota",
+        "epizoda": "Felina",
+        "dolzina": 55,
+        "zvrst": [
+            "Crime",
+            " Drama",
+            " Thriller"
+        ],
+        "ocena": 9.9,
+        "reziser": "Vince Gilligan",
+        "st_glasov": 66.505
+    },
+    {
+        "serija": "Igra prestolov",
+        "epizoda": "Hardhome",
+        "dolzina": 61,
+        "zvrst": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "ocena": 9.9,
+        "reziser": "Miguel Sapochnik",
+        "st_glasov": 69.884
+    },
+    {
+        "serija": "Hannibal",
+        "epizoda": "Mizumono",
+        "dolzina": 44,
+        "zvrst": [
+            "Crime",
+            " Drama",
+            " Horror"
+        ],
+        "ocena": 9.9,
+        "reziser": "David Slade",
+        "st_glasov": 13.066
+    },
+    {
+        "serija": "Kriva pota",
+        "epizoda": "Ozymandias",
+        "dolzina": 48,
+        "zvrst": [
+            "Crime",
+            " Drama",
+            " Thriller"
+        ],
+        "ocena": 9.9,
+        "reziser": "Rian Johnson",
+        "st_glasov": 95.829
+    },
+    {
+        "serija": "Igra prestolov",
+        "epizoda": "The Rains of Castamere",
+        "dolzina": 51,
+        "zvrst": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "ocena": 9.9,
+        "reziser": "David Nutter",
+        "st_glasov": 66.69
+    },
+    {
+        "serija": "Igra prestolov",
+        "epizoda": "The Winds of Winter",
+        "dolzina": 68,
+        "zvrst": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "ocena": 9.9,
+        "reziser": "Miguel Sapochnik",
+        "st_glasov": 107.663
+    },
+    {
+        "serija": "Lucifer",
+        "epizoda": "A Devil of My Word",
+        "dolzina": 43,
+        "zvrst": [
+            "Crime",
+            " Drama",
+            " Fantasy"
+        ],
+        "ocena": 9.8,
+        "reziser": "Eagle Egilsson",
+        "st_glasov": 6.825
+    },
+    {
+        "serija": "Igra prestolov",
+        "epizoda": "Battle of the Bastards",
+        "dolzina": 60,
+        "zvrst": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "ocena": 9.9,
+        "reziser": "Miguel Sapochnik",
+        "st_glasov": 156.789
+    },
+    {
+        "serija": "Kriva pota",
+        "epizoda": "Felina",
+        "dolzina": 55,
+        "zvrst": [
+            "Crime",
+            " Drama",
+            " Thriller"
+        ],
+        "ocena": 9.9,
+        "reziser": "Vince Gilligan",
+        "st_glasov": 66.505
+    },
+    {
+        "serija": "Igra prestolov",
+        "epizoda": "Hardhome",
+        "dolzina": 61,
+        "zvrst": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "ocena": 9.9,
+        "reziser": "Miguel Sapochnik",
+        "st_glasov": 69.884
+    },
+    {
+        "serija": "Hannibal",
+        "epizoda": "Mizumono",
+        "dolzina": 44,
+        "zvrst": [
+            "Crime",
+            " Drama",
+            " Horror"
+        ],
+        "ocena": 9.9,
+        "reziser": "David Slade",
+        "st_glasov": 13.066
+    },
+    {
+        "serija": "Kriva pota",
+        "epizoda": "Ozymandias",
+        "dolzina": 48,
+        "zvrst": [
+            "Crime",
+            " Drama",
+            " Thriller"
+        ],
+        "ocena": 9.9,
+        "reziser": "Rian Johnson",
+        "st_glasov": 95.829
+    },
+    {
+        "serija": "Igra prestolov",
+        "epizoda": "The Rains of Castamere",
+        "dolzina": 51,
+        "zvrst": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "ocena": 9.9,
+        "reziser": "David Nutter",
+        "st_glasov": 66.69
+    },
+    {
+        "serija": "Igra prestolov",
+        "epizoda": "The Winds of Winter",
+        "dolzina": 68,
+        "zvrst": [
+            "Action",
+            " Adventure",
+            " Drama"
+        ],
+        "ocena": 9.9,
+        "reziser": "Miguel Sapochnik",
+        "st_glasov": 107.663
+    },
+    {
+        "serija": "Lucifer",
+        "epizoda": "A Devil of My Word",
+        "dolzina": 43,
+        "zvrst": [
+            "Crime",
+            " Drama",
+            " Fantasy"
+        ],
+        "ocena": 9.8,
+        "reziser": "Eagle Egilsson",
+        "st_glasov": 6.825
+    }
+]
