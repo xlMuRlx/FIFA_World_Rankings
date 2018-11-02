@@ -1,17 +1,1000 @@
-serija,epizoda,leto,dolzina,zvrst,ocena,reziser,st_glasov
-Igra prestolov,Battle of the Bastards,,60,"['Action', ' Adventure', ' Drama']",9.9,Miguel Sapochnik,156.789
-Kriva pota,Felina,,55,"['Crime', ' Drama', ' Thriller']",9.9,Vince Gilligan,66.505
-Igra prestolov,Hardhome,,61,"['Action', ' Adventure', ' Drama']",9.9,Miguel Sapochnik,69.884
-Hannibal,Mizumono,,44,"['Crime', ' Drama', ' Horror']",9.9,David Slade,13.066
-Kriva pota,Ozymandias,,48,"['Crime', ' Drama', ' Thriller']",9.9,Rian Johnson,95.829
-Igra prestolov,The Rains of Castamere,,51,"['Action', ' Adventure', ' Drama']",9.9,David Nutter,66.69
-Igra prestolov,The Winds of Winter,,68,"['Action', ' Adventure', ' Drama']",9.9,Miguel Sapochnik,107.663
-Lucifer,A Devil of My Word,,43,"['Crime', ' Drama', ' Fantasy']",9.8,Eagle Egilsson,6.825
-Igra prestolov,Battle of the Bastards,,60,"['Action', ' Adventure', ' Drama']",9.9,Miguel Sapochnik,156.789
-Kriva pota,Felina,,55,"['Crime', ' Drama', ' Thriller']",9.9,Vince Gilligan,66.505
-Igra prestolov,Hardhome,,61,"['Action', ' Adventure', ' Drama']",9.9,Miguel Sapochnik,69.884
-Hannibal,Mizumono,,44,"['Crime', ' Drama', ' Horror']",9.9,David Slade,13.066
-Kriva pota,Ozymandias,,48,"['Crime', ' Drama', ' Thriller']",9.9,Rian Johnson,95.829
-Igra prestolov,The Rains of Castamere,,51,"['Action', ' Adventure', ' Drama']",9.9,David Nutter,66.69
-Igra prestolov,The Winds of Winter,,68,"['Action', ' Adventure', ' Drama']",9.9,Miguel Sapochnik,107.663
-Lucifer,A Devil of My Word,,43,"['Crime', ' Drama', ' Fantasy']",9.8,Eagle Egilsson,6.825
+serija,epizoda,leto,dolzina,reziserji,ocena,st_glasov
+LazyTown,Robbie's Dream Team,2014,20,"[{'id': 1551787, 'ime': 'Magnús Scheving'}]",10.0,11364
+Igra prestolov,Battle of the Bastards,2016,60,"[{'id': 764601, 'ime': 'Miguel Sapochnik'}]",9.9,156789
+Kriva pota,Felina,2013,55,"[{'id': 319213, 'ime': 'Vince Gilligan'}]",9.9,66505
+Igra prestolov,Hardhome,2015,61,"[{'id': 764601, 'ime': 'Miguel Sapochnik'}]",9.9,69884
+Hannibal,Mizumono,2014,44,"[{'id': 1720541, 'ime': 'David Slade'}]",9.9,13066
+Kriva pota,Ozymandias,2013,48,"[{'id': 426059, 'ime': 'Rian Johnson'}]",9.9,95829
+Igra prestolov,The Rains of Castamere,2013,51,"[{'id': 638354, 'ime': 'David Nutter'}]",9.9,66690
+Igra prestolov,The Winds of Winter,2016,68,"[{'id': 764601, 'ime': 'Miguel Sapochnik'}]",9.9,107663
+Lucifer,A Devil of My Word,2018,43,"[{'id': 251032, 'ime': 'Eagle Egilsson'}]",9.8,6825
+Doctor Who,Blink,2007,45,"[{'id': 531751, 'ime': 'Hettie Macdonald'}]",9.8,15489
+The 100,Damocles: Part 2,2018,42,"[{'id': 924693, 'ime': 'Dean White'}]",9.8,2824
+Pod ruso,Everyone's Waiting,2005,73,"[{'id': 50332, 'ime': 'Alan Ball'}]",9.8,6242
+Kriva pota,Face Off,2011,51,"[{'id': 319213, 'ime': 'Vince Gilligan'}]",9.8,31074
+Nepremagljivi dvojec,Faith,2015,45,"[{'id': 188929, 'ime': 'Anton Cropper'}]",9.8,7311
+BoJack Horseman,Free Churro,2018,26,"[{'id': 2441608, 'ime': 'Amy Winfrey'}]",9.8,4400
+Zdravnikova vest,House's Head,2008,44,"[{'id': 944981, 'ime': 'Greg Yaitanes'}]",9.8,6897
+Lov na osumljenca,If-Then-Else,2015,43,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.8,9748
+Community,Modern Warfare,2010,20,"[{'id': 510912, 'ime': 'Justin Lin'}]",9.8,6455
+Mladi zdravniki,My Finale: Part 2,2009,22,"[{'id': 492639, 'ime': 'Bill Lawrence'}]",9.8,3185
+Gravity Falls,Not What He Seems,2015,23,"[{'id': 1776046, 'ime': 'Stephen Sandoval'}]",9.8,2623
+Buffy - Izganjalka vampirjev,"Once More, with Feeling",2001,50,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.8,6828
+Community,Remedial Chaos Theory,2011,22,"[{'id': 578162, 'ime': 'Jeff Melman'}]",9.8,5147
+Shingeki no kyojin,Senshi,2017,24,"[{'id': 2013928, 'ime': 'Tetsurô Araki'}, {'id': 2967345, 'ime': 'Masashi Koizuka'}, {'id': 2485876, 'ime': 'Hiroyuki Tanaka'}]",9.8,2548
+Avatar: The Last Airbender,Sozin's Comet: Part 4 - Avatar Aang,2008,30,"[{'id': 1690966, 'ime': 'Joaquim Dos Santos'}]",9.8,3351
+Dexter,The Getaway,2009,51,"[{'id': 793455, 'ime': 'Steve Shill'}]",9.8,9034
+Rick and Morty,The Ricklantis Mixup,2017,22,"[{'id': 688913, 'ime': 'Dominic Polcino'}, {'id': 33741, 'ime': 'Wesley Archer'}]",9.8,18053
+Igra prestolov,The Spoils of War,2017,50,"[{'id': 787687, 'ime': 'Matt Shakman'}]",9.8,62899
+Hannibal,The Wrath of the Lamb,2015,43,"[{'id': 753382, 'ime': 'Michael Rymer'}]",9.8,10233
+Star Wars: Rebels,Twilight of the Apprentice,2016,44,"[{'id': 1396048, 'ime': 'Dave Filoni'}]",9.8,2308
+Mr. Robot,eps3.5_kill-pr0cess.inc,2017,45,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.8,4999
+Community,A Fistful of Paintballs,2011,30,"[{'id': 751648, 'ime': 'Joe Russo'}]",9.7,3652
+Daredevil,A New Napkin,2018,54,"[{'id': 589284, 'ime': 'Sam Miller'}]",9.7,2219
+Igra prestolov,Blackwater,2012,55,"[{'id': 551076, 'ime': 'Neil Marshall'}]",9.7,29262
+Daredevil,Blindsided,2018,54,"[{'id': 3421685, 'ime': 'Alex Garcia Lopez'}]",9.7,3091
+Zdravnikova vest,Broken,2009,89,"[{'id': 414498, 'ime': 'Katie Jacobs'}]",9.7,6519
+Nadnaravno,Changing Channels,2009,60,"[{'id': 66596, 'ime': 'Charles Beeson'}]",9.7,6757
+Nepremagljivi dvojec,Character and Fitness,2017,44,"[{'id': 474955, 'ime': 'Roger Kumble'}]",9.7,3552
+Better Call Saul,Chicanery,2017,49,"[{'id': 755261, 'ime': 'Daniel Sackheim'}]",9.7,8179
+Lov na osumljenca,Deus Ex Machina,2014,43,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.7,4460
+Peaky Blinders,Episode #3.6,2016,57,"[{'id': 2139803, 'ime': 'Tim Mielants'}]",9.7,3748
+Pisarna,Finale,2013,51,"[{'id': 477129, 'ime': 'Ken Kwapis'}]",9.7,6679
+Billions,Golden Frog Time,2017,58,"[{'id': 476201, 'ime': 'Karyn Kusama'}]",9.7,2010
+Pisarna,"Goodbye, Michael",2011,50,"[{'id': 82450, 'ime': 'Paul Feig'}]",9.7,4709
+Buffy - Izganjalka vampirjev,Hush,1999,43,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.7,4936
+The Leftovers,I Live Here Now,2015,73,"[{'id': 1460, 'ime': 'Mimi Leder'}]",9.7,5184
+The Leftovers,International Assassin,2015,63,"[{'id': 957505, 'ime': 'Craig Zobel'}]",9.7,5377
+Puscica,Lian Yu,2017,42,"[{'id': 1168394, 'ime': 'Jesse Warn'}]",9.7,6027
+Mladi zdravniki,My Lunch,2006,24,"[{'id': 584863, 'ime': 'John Michel'}]",9.7,2482
+Mladi zdravniki,My Screwup,2004,24,"[{'id': 462277, 'ime': 'Chris Koch'}]",9.7,3777
+Sinovi anarhije,NS,2010,57,"[{'id': 1176676, 'ime': 'Kurt Sutter'}]",9.7,3287
+Parki in rekreacija,One Last Ride: Part 2,2015,60,"[{'id': 1321658, 'ime': 'Michael Schur'}]",9.7,2750
+The Flash,Out of Time,2015,42,"[{'id': 294457, 'ime': 'Thor Freudenthal'}]",9.7,12505
+Sopranovi,Pine Barrens,2001,60,"[{'id': 114, 'ime': 'Steve Buscemi'}]",9.7,4634
+Lov na osumljenca,Return 0,2016,43,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.7,8239
+Nadnaravno,ScoobyNatural,2018,42,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.7,4592
+Nadnaravno,Swan Song,2010,60,"[{'id': 102434, 'ime': 'Steve Boyum'}]",9.7,7096
+Atlanta,Teddy Perkins,2018,35,"[{'id': 2033604, 'ime': 'Hiro Murai'}]",9.7,3095
+Buffy - Izganjalka vampirjev,The Body,2001,60,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.7,4195
+Igra prestolov,The Children,2014,65,"[{'id': 336241, 'ime': 'Alex Graves'}]",9.7,28970
+Puscica,The Climb,2014,42,"[{'id': 294457, 'ime': 'Thor Freudenthal'}]",9.7,10434
+Skrivnostni otok,The Constant,2008,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.7,8560
+Lov na osumljenca,The Crossing,2013,44,"[{'id': 870295, 'ime': 'Frederick E.O. Toye'}]",9.7,4726
+Lov na osumljenca,The Day the World Went Away,2016,43,"[{'id': 870295, 'ime': 'Frederick E.O. Toye'}]",9.7,5052
+Daredevil,The Devil You Know,2018,54,"[{'id': 839660, 'ime': 'Stephen Surjik'}]",9.7,2604
+Lov na osumljenca,The Devil's Share,2013,43,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.7,4809
+Igra prestolov,The Door,2016,57,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.7,50606
+Nadnaravno,The French Mistake,2011,42,"[{'id': 66596, 'ime': 'Charles Beeson'}]",9.7,6894
+Prijatelji,The Last One: Part 2,2004,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.7,8061
+Igra prestolov,The Laws of Gods and Men,2014,51,"[{'id': 2399, 'ime': 'Alik Sakharov'}]",9.7,31961
+Igra prestolov,The Lion and the Rose,2014,52,"[{'id': 336241, 'ime': 'Alex Graves'}]",9.7,36761
+Igra prestolov,The Mountain and the Viper,2014,52,"[{'id': 336241, 'ime': 'Alex Graves'}]",9.7,35517
+Prijatelji,The One Where Everybody Finds Out,1999,22,"[{'id': 501185, 'ime': 'Michael Lembeck'}]",9.7,6233
+Sherlock,The Reichenbach Fall,2012,88,"[{'id': 1595284, 'ime': 'Toby Haynes'}]",9.7,29761
+One Punch Man: Wanpanman,The Strongest Hero,2015,24,"[{'id': 2463335, 'ime': 'Shingo Natsume'}]",9.7,2645
+Oglasevalci,The Suitcase,2010,48,"[{'id': 315298, 'ime': 'Jennifer Getzinger'}]",9.7,3301
+Skrivnostni otok,Through the Looking Glass,2007,84,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.7,8409
+Nepremagljivi dvojec,Tick Tock,2016,43,"[{'id': 474955, 'ime': 'Roger Kumble'}]",9.7,2968
+BoJack Horseman,Time's Arrow,2017,25,"[{'id': 5571371, 'ime': 'Aaron Long'}]",9.7,4140
+Kriva pota,To'hajiilee,2013,47,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.7,24536
+Pravi detektiv,Who Goes There,2014,56,"[{'id': 1560977, 'ime': 'Cary Joji Fukunaga'}]",9.7,17951
+Zdravnikova vest,Wilson's Heart,2008,45,"[{'id': 414498, 'ime': 'Katie Jacobs'}]",9.7,6447
+Black Sails,XVIII.,2015,53,"[{'id': 102434, 'ime': 'Steve Boyum'}]",9.7,2595
+Black Sails,XXVIII.,2016,49,"[{'id': 2399, 'ime': 'Alik Sakharov'}]",9.7,2284
+Lov na osumljenca,YHWH,2015,44,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.7,5574
+Mr. Robot,eps3.4_runtime-err0r.r00,2017,45,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.7,5326
+Banshee,A Fixer of Sorts,2015,58,"[{'id': 994368, 'ime': 'Magnus Martens'}]",9.6,2308
+Igra prestolov,And Now His Watch Is Ended,2013,53,"[{'id': 336241, 'ime': 'Alex Graves'}]",9.6,22877
+Igra prestolov,Baelor,2011,57,"[{'id': 851930, 'ime': 'Alan Taylor'}]",9.6,25248
+Buffy - Izganjalka vampirjev,Becoming: Part 2,1998,44,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.6,2790
+The Legend of Korra,"Beginnings, Part 2",2013,24,"[{'id': 1685611, 'ime': 'Ian Graham'}]",9.6,2022
+Dexter,Born Free,2006,56,"[{'id': 191147, 'ime': 'Michael Cuesta'}]",9.6,6371
+Zdravnikova vest,Both Sides Now,2009,60,"[{'id': 944981, 'ime': 'Greg Yaitanes'}]",9.6,3732
+House of Cards,Chapter 14,2014,50,"[{'id': 2083, 'ime': 'Carl Franklin'}]",9.6,7508
+House of Cards,Chapter 26,2014,60,"[{'id': 1226, 'ime': 'James Foley'}]",9.6,5566
+House of Cards,Chapter 52,2016,55,"[{'id': 1347708, 'ime': 'Jakob Verbruggen'}]",9.6,5169
+It's Always Sunny in Philadelphia,Charlie Work,2015,23,"[{'id': 787687, 'ime': 'Matt Shakman'}]",9.6,5036
+Kriva pota,Crawl Space,2011,45,"[{'id': 934525, 'ime': 'Scott Winant'}]",9.6,16364
+Kriva pota,Dead Freight,2012,48,"[{'id': 2297407, 'ime': 'George Mastras'}]",9.6,17679
+Nadnaravno,Don't Call Me Shurley,2016,42,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.6,4405
+Outlander,Dragonfly in Amber,2016,90,"[{'id': 1353167, 'ime': 'Philip John'}]",9.6,2947
+Community,Emotional Consequences of Broadcast Television,2015,27,"[{'id': 1041479, 'ime': 'Rob Schrab'}]",9.6,2785
+Peaky Blinders,Episode #2.6,2014,59,"[{'id': 1142073, 'ime': 'Colm McCarthy'}]",9.6,4089
+The Flash,Fast Enough,2015,44,"[{'id': 236173, 'ime': 'Dermott Downs'}]",9.6,10697
+Lov na osumljenca,Firewall,2012,44,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.6,4287
+Community,For a Few Paintballs More,2011,30,"[{'id': 751648, 'ime': 'Joe Russo'}]",9.6,2954
+Pravi detektiv,Form and Void,2014,54,"[{'id': 1560977, 'ime': 'Cary Joji Fukunaga'}]",9.6,14731
+The Originals,From a Cradle to a Grave,2014,42,"[{'id': 368602, 'ime': 'Matthew Hastings'}]",9.6,2148
+Kriva pota,Granite State,2013,55,"[{'id': 332467, 'ime': 'Peter Gould'}]",9.6,24476
+Doctor Who,Heaven Sent,2015,55,"[{'id': 3080, 'ime': 'Rachel Talalay'}]",9.6,7505
+Brez sramu,Lazarus,2014,57,"[{'id': 617042, 'ime': 'Mark Mylod'}]",9.6,3106
+Parki in rekreacija,Leslie and Ron,2015,22,"[{'id': 565063, 'ime': 'Beth McCarthy-Miller'}]",9.6,2204
+Zivi mrtveci,No Way Out,2016,43,"[{'id': 630524, 'ime': 'Greg Nicotero'}]",9.6,22137
+Angel,Not Fade Away,2004,44,"[{'id': 68272, 'ime': 'Jeffrey Bell'}]",9.6,2058
+Parki in rekreacija,One Last Ride: Part 1,2015,44,"[{'id': 1321658, 'ime': 'Michael Schur'}]",9.6,2211
+Nepremagljivi dvojec,P.S.L.,2016,44,"[{'id': 106230, 'ime': 'Kevin Bray'}]",9.6,3052
+Lucifer,Quintessential Deckerstar,2018,43,"[{'id': 946475, 'ime': 'Claudia Yarmy'}]",9.6,3810
+Ameriska grozljivka,Return to Murder House,2018,56,"[{'id': 5299, 'ime': 'Sarah Paulson'}]",9.6,2723
+South Park,Scott Tenorman Must Die,2001,22,"[{'id': 832833, 'ime': 'Eric Stough'}]",9.6,5815
+Oglasevalci,Shut the Door. Have a Seat,2009,60,"[{'id': 1980806, 'ime': 'Matthew Weiner'}]",9.6,2630
+Pisarna,Stress Relief,2009,60,"[{'id': 998825, 'ime': 'Jeffrey Blitz'}]",9.6,4914
+Westworld,The Bicameral Mind,2016,90,"[{'id': 634300, 'ime': 'Jonathan Nolan'}]",9.6,22830
+The Leftovers,The Book of Nora,2017,72,"[{'id': 1460, 'ime': 'Mimi Leder'}]",9.6,4530
+Fargo,The Castle,2015,50,"[{'id': 35060, 'ime': 'Adam Arkin'}]",9.6,6432
+Seinfeld,The Contest,1992,23,"[{'id': 156013, 'ime': 'Tom Cherones'}]",9.6,3844
+One Punch Man: Wanpanman,The Dominator of the Universe,2015,24,"[{'id': 2463335, 'ime': 'Shingo Natsume'}, {'id': 8125528, 'ime': 'Yosuke Hatta'}]",9.6,2003
+Igra prestolov,The Dragon and the Wolf,2017,80,"[{'id': 687964, 'ime': 'Jeremy Podeswa'}]",9.6,41204
+Buffy - Izganjalka vampirjev,The Gift,2001,44,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.6,2868
+The Leftovers,The Most Powerful Man in the World (and His Identical Twin Brother),2017,64,"[{'id': 957505, 'ime': 'Craig Zobel'}]",9.6,3658
+Seinfeld,The Opposite,1994,23,"[{'id': 156013, 'ime': 'Tom Cherones'}]",9.6,2759
+Glee,The Quarterback,2013,45,"[{'id': 1004299, 'ime': 'Brad Falchuk'}]",9.6,2438
+Pravi detektiv,The Secret Fate of All Life,2014,57,"[{'id': 1560977, 'ime': 'Cary Joji Fukunaga'}]",9.6,12930
+Seinfeld,The Soup Nazi,1995,23,"[{'id': 9953, 'ime': 'Andy Ackerman'}]",9.6,3356
+Igra prestolov,The Watchers on the Wall,2014,51,"[{'id': 551076, 'ime': 'Neil Marshall'}]",9.6,29043
+Homeland,There's Something Else Going On,2014,48,"[{'id': 542960, 'ime': 'Seith Mann'}]",9.6,5355
+Nepremagljivi dvojec,This Is Rome,2014,43,"[{'id': 474955, 'ime': 'Roger Kumble'}]",9.6,2743
+Zdravnikova vest,Three Stories,2005,44,"[{'id': 54077, 'ime': 'Paris Barclay'}]",9.6,5193
+Zivi mrtveci,Too Far Gone,2013,43,"[{'id': 225416, 'ime': 'Ernest R. Dickerson'}]",9.6,19808
+One Punch Man: Wanpanman,Unyielding Justice,2015,24,"[{'id': 2463335, 'ime': 'Shingo Natsume'}, {'id': 4823333, 'ime': ""Shun'ichi Yoshizawa""}]",9.6,2072
+The Legend of Korra,Venom of the Red Lotus,2014,23,"[{'id': 1955513, 'ime': 'Melchior Zwyer'}]",9.6,2220
+How to Get Away with Murder,What Did We Do?,2015,43,"[{'id': 2704, 'ime': ""Bill D'Elia""}]",9.6,2554
+How to Get Away with Murder,Who's Dead?,2016,43,"[{'id': 2704, 'ime': ""Bill D'Elia""}]",9.6,2063
+Better Call Saul,Winner,2018,61,"[{'id': 2835, 'ime': 'Adam Bernstein'}]",9.6,3514
+Sense8,You Want a War?,2017,57,"[{'id': 905154, 'ime': 'Lana Wachowski'}]",9.6,2912
+Lucifer,A Good Day to Die,2017,43,"[{'id': 726975, 'ime': 'Alrick Riley'}]",9.5,3217
+The Leftovers,A Most Powerful Adversary,2015,57,"[{'id': 1460, 'ime': 'Mimi Leder'}]",9.5,3675
+Sinovi anarhije,A Mother's Work,2013,84,"[{'id': 1176676, 'ime': 'Kurt Sutter'}]",9.5,2971
+Sherlock,A Scandal in Belgravia,2012,89,"[{'id': 6476, 'ime': 'Paul McGuigan'}]",9.5,30870
+Community,Advanced Dungeons & Dragons,2011,22,"[{'id': 751648, 'ime': 'Joe Russo'}]",9.5,3124
+Nadnaravno,All Hell Breaks Loose: Part 2,2007,55,"[{'id': 543129, 'ime': 'Kim Manners'}]",9.5,4128
+Castle,Always,2012,45,"[{'id': 101385, 'ime': 'Rob Bowman'}]",9.5,2079
+Master of None,Amarsi Un Po,2017,57,"[{'id': 2106637, 'ime': 'Aziz Ansari'}]",9.5,2106
+Dexter,Are You...?,2012,55,"[{'id': 1093, 'ime': 'John Dahl'}]",9.5,6858
+Lov na osumljenca,Asylum,2015,43,"[{'id': 870295, 'ime': 'Frederick E.O. Toye'}]",9.5,3340
+Nadnaravno,Baby,2015,41,"[{'id': 942869, 'ime': 'Thomas J. Wright'}]",9.5,4504
+La casa de papel,Bella ciao,2017,43,"[{'id': 2912775, 'ime': 'Jesús Colmenar'}, {'id': 2338464, 'ime': 'Alex Rodrigo'}]",9.5,3053
+Nepremagljivi dvojec,Blowback,2016,45,"[{'id': 637458, 'ime': 'Cherie Nowlan'}]",9.5,2357
+Legion,Chapter 7,2017,46,"[{'id': 330140, 'ime': 'Dennie Gordon'}]",9.5,3641
+Kriva pota,Confessions,2013,48,"[{'id': 806252, 'ime': 'Michael Slovis'}]",9.5,16891
+Sodobna družina,Connection Lost,2015,22,"[{'id': 506160, 'ime': 'Steven Levitan'}]",9.5,4678
+Hannibal,Digestivo,2015,44,"[{'id': 437246, 'ime': 'Adam Kane'}]",9.5,3929
+Community,Digital Estate Planning,2012,22,"[{'id': 203215, 'ime': 'Adam Davidson'}]",9.5,2789
+Lov na osumljenca,Endgame,2013,44,"[{'id': 1234893, 'ime': 'Sylvain White'}]",9.5,2942
+The Flash,Enter Zoom,2015,42,"[{'id': 538387, 'ime': 'J.J. Makaro'}]",9.5,6185
+Outlander,Faith,2016,63,"[{'id': 406177, 'ime': 'Metin Hüseyin'}]",9.5,2528
+Nadnaravno,Fan Fiction,2014,43,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.5,6093
+Igra prestolov,Fire and Blood,2011,53,"[{'id': 851930, 'ime': 'Alan Taylor'}]",9.5,22324
+Better Call Saul,Five-O,2015,42,"[{'id': 2835, 'ime': 'Adam Bernstein'}]",9.5,10473
+Doctor Who,Forest of the Dead,2008,45,"[{'id': 528186, 'ime': 'Euros Lyn'}]",9.5,6721
+Kriva pota,Full Measure,2010,47,"[{'id': 319213, 'ime': 'Vince Gilligan'}]",9.5,14948
+Kriva pota,Gliding Over All,2012,48,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.5,16124
+Beg iz zapora,Go,2006,60,"[{'id': 924693, 'ime': 'Dean White'}]",9.5,3858
+Lov na osumljenca,God Mode,2013,44,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.5,3187
+Dexter,"Hello, Dexter Morgan",2009,51,"[{'id': 1237416, 'ime': 'S.J. Clarkson'}]",9.5,4153
+Zdravnikova vest,Help Me,2010,60,"[{'id': 944981, 'ime': 'Greg Yaitanes'}]",9.5,3255
+Nepremagljivi dvojec,Hitting Home,2015,44,"[{'id': 474955, 'ime': 'Roger Kumble'}]",9.5,2196
+Igra prestolov,Home,2016,54,"[{'id': 687964, 'ime': 'Jeremy Podeswa'}]",9.5,34398
+The Punisher,Home,2017,51,"[{'id': 1288934, 'ime': 'Jet Wilkinson'}]",9.5,6195
+The Expanse,Home,2017,43,"[{'id': 343622, 'ime': 'David Grossman'}]",9.5,2578
+Kako sem spoznal vajino mamo,How Your Mother Met Me,2014,23,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.5,7044
+The Filthy Frank Show,Human Cake,2016,22,"[{'id': 6915712, 'ime': 'Joji'}]",9.5,2395
+Futurama,Jurassic Bark,2002,23,"[{'id': 778772, 'ime': 'Swinton O. Scott III'}]",9.5,3669
+Nadnaravno,Lazarus Rising,2008,55,"[{'id': 543129, 'ime': 'Kim Manners'}]",9.5,4853
+Skrivnostni otok,"Live Together, Die Alone",2006,87,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.5,5312
+Sopranovi,Long Term Parking,2004,57,"[{'id': 887700, 'ime': 'Timothy Van Patten'}]",9.5,2692
+Fargo,Loplop,2015,63,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.5,6454
+South Park,"Make Love, Not Warcraft",2006,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.5,5496
+The Good Place,Michael's Gambit,2017,25,"[{'id': 1321658, 'ime': 'Michael Schur'}]",9.5,2198
+Nadnaravno,Mystery Spot,2008,55,"[{'id': 543129, 'ime': 'Kim Manners'}]",9.5,4992
+Daredevil,New York's Finest,2016,48,"[{'id': 1305344, 'ime': 'Marc Jobst'}]",9.5,7538
+Zivi mrtveci,No Sanctuary,2014,42,"[{'id': 630524, 'ime': 'Greg Nicotero'}]",9.5,21556
+Kriva pota,One Minute,2010,47,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.5,13750
+Sinovi anarhije,Papa's Goods,2014,77,"[{'id': 1176676, 'ime': 'Kurt Sutter'}]",9.5,4294
+Twin Peaks,Part 16,2017,57,"[{'id': 186, 'ime': 'David Lynch'}]",9.5,3609
+Daredevil,Penny and Dime,2016,60,"[{'id': 387486, 'ime': 'Peter Hoar'}]",9.5,7094
+Better Call Saul,Pimento,2015,47,"[{'id': 1041475, 'ime': 'Thomas Schnauz'}]",9.5,7762
+Lov na osumljenca,Prisoner's Dilemma,2013,44,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.5,2819
+Agenti SHIELD,S.O.S. Part 2,2015,43,"[{'id': 317382, 'ime': 'Billy Gierhart'}]",9.5,3475
+Puscica,Sacrifice,2013,42,"[{'id': 57106, 'ime': 'David Barrett'}]",9.5,6380
+Kriva pota,Salud,2011,47,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.5,14193
+Kriva pota,Say My Name,2012,48,"[{'id': 1041475, 'ime': 'Thomas Schnauz'}]",9.5,15161
+Agenti SHIELD,Self Control,2017,43,"[{'id': 1871590, 'ime': 'Jed Whedon'}]",9.5,3166
+Daredevil,Seven Minutes in Heaven,2016,59,"[{'id': 839660, 'ime': 'Stephen Surjik'}]",9.5,6150
+Kako sem spoznal vajino mamo,Slap Bet,2006,23,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.5,4699
+Sinovi anarhije,Suits of Woe,2014,72,"[{'id': 693, 'ime': 'Peter Weller'}]",9.5,2444
+This Is Us,Super Bowl Sunday,2018,46,"[{'id': 275629, 'ime': 'Glenn Ficarra'}, {'id': 720135, 'ime': 'John Requa'}]",9.5,3357
+Master of None,Thanksgiving,2017,34,"[{'id': 2027419, 'ime': 'Melina Matsoukas'}]",9.5,2075
+The Haunting of Hill House,The Bent-Neck Lady,2018,70,"[{'id': 1093039, 'ime': 'Mike Flanagan'}]",9.5,3383
+Igra prestolov,The Dance of Dragons,2015,52,"[{'id': 638354, 'ime': 'David Nutter'}]",9.5,29829
+Vampirski dnevniki,The Departed,2012,42,"[{'id': 67090, 'ime': 'John Behring'}]",9.5,2753
+Lov na osumljenca,The Devil You Know,2014,43,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.5,2836
+Prijatelji,The Last One: Part 1,2004,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.5,4901
+Peaky Blinders,The Noose,2017,60,"[{'id': 128452, 'ime': 'David Caffrey'}]",9.5,4305
+Prijatelji,The One with the Embryos,1998,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.5,4641
+Rick and Morty,The Rickshank Rickdemption,2017,22,"[{'id': 1090137, 'ime': 'Juan Jose Meza-Leon'}, {'id': 33741, 'ime': 'Wesley Archer'}]",9.5,12519
+The Flash,The Trap,2015,42,"[{'id': 793455, 'ime': 'Steve Shill'}]",9.5,6015
+Oranzna je nova crna,Toast Can't Never Be Bread Again,2016,76,"[{'id': 2835, 'ime': 'Adam Bernstein'}]",9.5,3327
+The Haunting of Hill House,Two Storms,2018,57,"[{'id': 1093039, 'ime': 'Mike Flanagan'}]",9.5,3026
+Puscica,Unthinkable,2014,45,"[{'id': 67090, 'ime': 'John Behring'}]",9.5,6284
+Big Little Lies,You Get What You Need,2017,58,"[{'id': 885249, 'ime': 'Jean-Marc Vallée'}]",9.5,4307
+Lov na osumljenca,Zero Day,2013,44,"[{'id': 402493, 'ime': 'Jeffrey G. Hunt'}]",9.5,2762
+Mr. Robot,eps1.7_wh1ter0se.m4v,2015,45,"[{'id': 775358, 'ime': 'Christoph Schrewe'}]",9.5,8527
+Mr. Robot,eps3.9_shutdown-r,2017,57,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.5,3143
+Lov na osumljenca,.exe,2016,44,"[{'id': 686388, 'ime': 'Greg Plageman'}]",9.4,2870
+Homeland,13 Hours in Islamabad,2014,46,"[{'id': 3733, 'ime': 'Daniel Attias'}]",9.4,3620
+Nepremagljivi dvojec,25th Hour,2016,45,"[{'id': 188929, 'ime': 'Anton Cropper'}]",9.4,2748
+Lov na osumljenca,"6,741",2016,43,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.4,4055
+Fargo,"A Fox, a Rabbit, and a Cabbage",2014,51,"[{'id': 787687, 'ime': 'Matt Shakman'}]",9.4,6070
+Nadnaravno,Abandon All Hope,2009,60,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.4,3358
+Narcos,Al Fin Cayó!,2016,53,"[{'id': 1223381, 'ime': 'Andrés Baiz'}]",9.4,4534
+Na robu znanosti,An Enemy of Fate,2013,43,"[{'id': 437249, 'ime': 'J.H. Wyman'}]",9.4,2565
+Dosjeji X,Bad Blood,1998,45,"[{'id': 92853, 'ime': 'Cliff Bole'}]",9.4,4126
+Community,Basic Lupine Urology,2012,21,"[{'id': 1041479, 'ime': 'Rob Schrab'}]",9.4,2516
+Lov na osumljenca,Beta,2014,43,"[{'id': 870295, 'ime': 'Frederick E.O. Toye'}]",9.4,2259
+Kriva pota,Blood Money,2013,48,"[{'id': 186505, 'ime': 'Bryan Cranston'}]",9.4,15756
+Fargo,Buridan's Ass,2014,53,"[{'id': 118778, 'ime': 'Colin Bucksey'}]",9.4,6898
+House of Cards,Chapter 43,2016,43,"[{'id': 705, 'ime': 'Robin Wright'}]",9.4,3617
+House of Cards,Chapter 49,2016,57,"[{'id': 705, 'ime': 'Robin Wright'}]",9.4,3475
+Stranger Things,Chapter Nine: The Gate,2017,62,"[{'id': 1819972, 'ime': 'Matt Duffer'}, {'id': 1819973, 'ime': 'Ross Duffer'}]",9.4,12760
+Buffy - Izganjalka vampirjev,Chosen,2003,43,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.4,2908
+Community,Conspiracy Theories and Interior Design,2010,22,"[{'id': 203215, 'ime': 'Adam Davidson'}]",9.4,2625
+Lov na osumljenca,Control-Alt-Delete,2015,43,"[{'id': 839660, 'ime': 'Stephen Surjik'}]",9.4,2672
+Daredevil,Daredevil,2015,56,"[{'id': 215299, 'ime': 'Steven S. DeKnight'}]",9.4,8114
+Talenti v belem,Death and All His Friends,2010,60,"[{'id': 180085, 'ime': 'Rob Corn'}]",9.4,2314
+Nadnaravno,Do You Believe in Miracles,2014,42,"[{'id': 942869, 'ime': 'Thomas J. Wright'}]",9.4,3719
+Kriva pota,End Times,2011,47,"[{'id': 319213, 'ime': 'Vince Gilligan'}]",9.4,12529
+Twin Peaks,Episode #2.7,1990,47,"[{'id': 186, 'ime': 'David Lynch'}]",9.4,3254
+Skrivnostni otok,Exodus: Part 2 (Part I),2005,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.4,4728
+Shingeki no kyojin,"First Battle: Defense of Trost, Part 1",2013,24,"[{'id': 2013928, 'ime': 'Tetsurô Araki'}, {'id': 3615218, 'ime': 'Shinpei Ezaki'}]",9.4,2101
+Beg iz zapora,Flight,2006,60,"[{'id': 393661, 'ime': 'Kevin Hooks'}]",9.4,3570
+Outlander,Freedom & Whisky,2017,54,"[{'id': 536827, 'ime': 'Brendan Maher'}]",9.4,2011
+The Leftovers,G'Day Melbourne,2017,55,"[{'id': 755261, 'ime': 'Daniel Sackheim'}]",9.4,3114
+Community,Geothermal Escapism,2014,20,"[{'id': 751648, 'ime': 'Joe Russo'}]",9.4,2244
+Kriva pota,Half Measures,2010,47,"[{'id': 2835, 'ime': 'Adam Bernstein'}]",9.4,13187
+It's Always Sunny in Philadelphia,Hero or Hate Crime?,2017,23,"[{'id': 44803, 'ime': 'Jamie Babbit'}]",9.4,2180
+Sherlock,His Last Vow,2014,89,"[{'id': 403541, 'ime': 'Nick Hurran'}]",9.4,24519
+Dexter,Hungry Man,2009,51,"[{'id': 1093, 'ime': 'John Dahl'}]",9.4,3838
+Vampirski dnevniki,I Was Feeling Epic,2017,42,"[{'id': 687096, 'ime': 'Julie Plec'}]",9.4,2557
+Nadnaravno,In the Beginning,2008,50,"[{'id': 102434, 'ime': 'Steve Boyum'}]",9.4,3767
+How to Get Away with Murder,It's All My Fault,2015,43,"[{'id': 2704, 'ime': ""Bill D'Elia""}]",9.4,2401
+Nadnaravno,Jus in Bello,2008,55,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.4,3819
+How to Get Away with Murder,"Kill Me, Kill Me, Kill Me",2014,43,"[{'id': 931724, 'ime': 'Stephen Williams'}]",9.4,2484
+Sinovi anarhije,Laying Pipe,2012,47,"[{'id': 35060, 'ime': 'Adam Arkin'}]",9.4,2124
+Nadnaravno,Lucifer Rising,2009,43,"[{'id': 471392, 'ime': 'Eric Kripke'}]",9.4,3609
+Fargo,Morton's Fork,2014,64,"[{'id': 787687, 'ime': 'Matt Shakman'}]",9.4,6294
+Hannibal,Mukozuke,2014,42,"[{'id': 753382, 'ime': 'Michael Rymer'}]",9.4,3819
+Better Call Saul,Nailed,2016,49,"[{'id': 332467, 'ime': 'Peter Gould'}]",9.4,4936
+Zdravnikova vest,No Reason,2006,44,"[{'id': 794914, 'ime': 'David Shore'}]",9.4,3483
+Nadnaravno,No Rest for the Wicked,2008,50,"[{'id': 543129, 'ime': 'Kim Manners'}]",9.4,3621
+Nepremagljivi dvojec,No Way Out,2014,45,"[{'id': 1226492, 'ime': 'Michael Smith'}]",9.4,2400
+Nadnaravno,"O Brother, Where Art Thou?",2015,42,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.4,2820
+Outlander,Of Lost Things,2017,59,"[{'id': 536827, 'ime': 'Brendan Maher'}]",9.4,2047
+Lucifer,Off The Record,2017,43,"[{'id': 844896, 'ime': 'Eduardo Sánchez'}]",9.4,2734
+Silicon Valley,Optimal Tip-To-Tip Efficiency,2014,29,"[{'id': 431918, 'ime': 'Mike Judge'}]",9.4,2642
+Twin Peaks,Part 17,2017,59,"[{'id': 186, 'ime': 'David Lynch'}]",9.4,2816
+Buffy - Izganjalka vampirjev,Passion,1998,60,"[{'id': 314840, 'ime': 'Michael Gershman'}]",9.4,2699
+Na robu znanosti,Peter,2010,44,"[{'id': 833191, 'ime': 'David Straiton'}]",9.4,2469
+Lov na osumljenca,RAM,2014,44,"[{'id': 839660, 'ime': 'Stephen Surjik'}]",9.4,2580
+Sinovi anarhije,Red Rose,2014,77,"[{'id': 54077, 'ime': 'Paris Barclay'}]",9.4,2457
+Lov na osumljenca,Relevance,2013,44,"[{'id': 634300, 'ime': 'Jonathan Nolan'}]",9.4,3257
+Dexter,Resistance Is Futile,2007,50,"[{'id': 796864, 'ime': 'Marcos Siega'}]",9.4,3620
+Fargo,Rhinoceros,2015,46,"[{'id': 718001, 'ime': 'Jeffrey Reiner'}]",9.4,5232
+Nadnaravno,Sacrifice,2013,42,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.4,3592
+Talenti v belem,Sanctuary,2010,60,"[{'id': 185734, 'ime': 'Stephen Cragg'}]",9.4,2007
+Puscica,Seeing Red,2014,42,"[{'id': 7439, 'ime': 'Douglas Aarniokoski'}]",9.4,5464
+Doctor Who,Silence in the Library,2008,43,"[{'id': 528186, 'ime': 'Euros Lyn'}]",9.4,6436
+Lov na osumljenca,Sotto Voce,2016,44,"[{'id': 525785, 'ime': 'Margot Lulick'}]",9.4,2491
+Oranzna je nova crna,The Animals,2016,59,"[{'id': 1980806, 'ime': 'Matthew Weiner'}]",9.4,2336
+Star Trek: The Next Generation,The Best of Both Worlds,1990,45,"[{'id': 92853, 'ime': 'Cliff Bole'}]",9.4,2892
+Sopranovi,The Blue Comet,2007,49,"[{'id': 851930, 'ime': 'Alan Taylor'}]",9.4,2775
+Peaky Blinders,The Company,2017,60,"[{'id': 128452, 'ime': 'David Caffrey'}]",9.4,3611
+Fargo,The Crocodile's Dilemma,2014,69,"[{'id': 2835, 'ime': 'Adam Bernstein'}]",9.4,9382
+Doctor Who,The Day of the Doctor,2013,77,"[{'id': 403541, 'ime': 'Nick Hurran'}]",9.4,15622
+Outlander,The Devil's Mark,2015,59,"[{'id': 54954, 'ime': 'Mike Barker'}]",9.4,3206
+Kako sem spoznal vajino mamo,The Final Page: Part Two,2012,22,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.4,4545
+It's Always Sunny in Philadelphia,The Gang Goes to a Water Park,2017,20,"[{'id': 787687, 'ime': 'Matt Shakman'}]",9.4,2481
+Star Trek: The Next Generation,The Inner Light,1992,45,"[{'id': 491496, 'ime': 'Peter Lauritson'}]",9.4,4181
+Futurama,The Luck of the Fryrish,2001,30,"[{'id': 521701, 'ime': 'Chris Loudon'}]",9.4,2761
+The Flash,The Man in the Yellow Suit,2014,44,"[{'id': 375973, 'ime': 'Ralph Hemecker'}]",9.4,6956
+Nadnaravno,The Monster at the End of This Book,2009,43,"[{'id': 737517, 'ime': 'Mike Rohl'}]",9.4,3583
+It's Always Sunny in Philadelphia,The Nightman Cometh,2008,22,"[{'id': 787687, 'ime': 'Matt Shakman'}]",9.4,3873
+One Punch Man: Wanpanman,The Obsessive Scientist,2015,24,"[{'id': 2463335, 'ime': 'Shingo Natsume'}, {'id': 8125528, 'ime': 'Yosuke Hatta'}]",9.4,2025
+Prijatelji,The One with the Prom Video,1996,22,"[{'id': 123273, 'ime': 'James Burrows'}]",9.4,4380
+Seinfeld,The Outing,1993,22,"[{'id': 156013, 'ime': 'Tom Cherones'}]",9.4,2546
+Kako sem spoznal vajino mamo,The Playbook,2009,30,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.4,4500
+The Leftovers,The Prodigal Son Returns,2014,53,"[{'id': 1460, 'ime': 'Mimi Leder'}]",9.4,3883
+Kiber klapa,The Work Outing,2007,24,"[{'id': 512627, 'ime': 'Graham Linehan'}]",9.4,2980
+Once Upon a Time,There's No Place Like Home,2014,45,"[{'id': 375973, 'ime': 'Ralph Hemecker'}]",9.4,2158
+Skrivnostni otok,There's No Place Like Home: Part 2,2008,40,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.4,4600
+Narcos,Todos Los Hombres del Presidente,2017,47,"[{'id': 1223381, 'ime': 'Andrés Baiz'}]",9.4,2537
+Hannibal,Tome-wan,2014,44,"[{'id': 753382, 'ime': 'Michael Rymer'}]",9.4,3793
+Igra prestolov,Valar Morghulis,2012,64,"[{'id': 851930, 'ime': 'Alan Taylor'}]",9.4,20671
+Spartak: Kri in pesek,Victory,2013,58,"[{'id': 414910, 'ime': 'Rick Jacobson'}]",9.4,6415
+Oranzna je nova crna,We Have Manners. We're Polite.,2014,92,"[{'id': 538744, 'ime': 'Constantine Makris'}]",9.4,3267
+The Flash,Welcome to Earth-2,2016,42,"[{'id': 791381, 'ime': 'Millicent Shelton'}]",9.4,4994
+Nadnaravno,What Is and What Should Never Be,2007,50,"[{'id': 471392, 'ime': 'Eric Kripke'}]",9.4,4118
+Mr. Robot,eps2.5_h4ndshake.sme,2016,49,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.4,4656
+Agenti SHIELD,"4,722 Hours",2015,43,"[{'id': 1061992, 'ime': 'Jesse Bochco'}]",9.3,3728
+Penny Dreadful,A Blade of Grass,2016,56,"[{'id': 1089736, 'ime': 'Toa Fraser'}]",9.3,2488
+Daredevil,A Cold Day in Hell's Kitchen,2016,58,"[{'id': 387486, 'ime': 'Peter Hoar'}]",9.3,6282
+Lov na osumljenca,A House Divided,2014,44,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.3,2209
+Pisarna,A.A.R.M.,2013,43,"[{'id': 736821, 'ime': 'David Rogers'}]",9.3,2350
+Skrivnostni otok,Ab Aeterno,2010,48,"[{'id': 3163, 'ime': 'Tucker Gates'}]",9.3,4767
+Lov na osumljenca,Aletheia,2014,44,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.3,2284
+Dosjeji X,Anasazi,1995,45,"[{'id': 329535, 'ime': 'R.W. Goodwin'}]",9.3,3298
+Atlanta,B.A.N.,2016,24,"[{'id': 2255973, 'ime': 'Donald Glover'}]",9.3,2758
+Lov na osumljenca,B.S.O.D.,2016,44,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.3,3129
+Nadnaravno,Bad Day at Black Rock,2007,50,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.3,3889
+Homeland,Big Man in Tehran,2013,54,"[{'id': 590889, 'ime': 'Daniel Minahan'}]",9.3,3112
+The 100,Blood Must Have Blood: Part 2,2015,42,"[{'id': 924693, 'ime': 'Dean White'}]",9.3,4872
+Nadnaravno,Brother's Keeper,2015,42,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.3,2848
+Stranger Things,Chapter Eight: The Mind Flayer,2017,47,"[{'id': 1819972, 'ime': 'Matt Duffer'}, {'id': 1819973, 'ime': 'Ross Duffer'}]",9.3,11420
+Stranger Things,Chapter Eight: The Upside Down,2016,54,"[{'id': 1819972, 'ime': 'Matt Duffer'}, {'id': 1819973, 'ime': 'Ross Duffer'}]",9.3,13887
+Dosjeji X,Clyde Bruckman's Final Repose,1995,45,"[{'id': 638354, 'ime': 'David Nutter'}]",9.3,4442
+Community,Contemporary American Poultry,2010,21,"[{'id': 788426, 'ime': 'Tristram Shapeero'}]",9.3,2479
+Hannibal,Contorno,2015,44,"[{'id': 622897, 'ime': 'Guillermo Navarro'}]",9.3,3483
+Ameriska grozljivka,Could It Be... Satan?,2018,43,"[{'id': 284308, 'ime': 'Sheree Folkson'}]",9.3,2213
+The Punisher,Danger Close,2017,52,"[{'id': 393661, 'ime': 'Kevin Hooks'}]",9.3,4951
+Lov na osumljenca,Dead Reckoning,2013,44,"[{'id': 1093, 'ime': 'John Dahl'}]",9.3,2402
+Lov na osumljenca,Death Benefit,2014,43,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.3,2212
+Puscica,Deathstroke,2014,42,"[{'id': 66218, 'ime': 'Guy Norman Bee'}]",9.3,4508
+Nadnaravno,Devil's Trap,2006,55,"[{'id': 543129, 'ime': 'Kim Manners'}]",9.3,3903
+The 100,"Die All, Die Merrily",2017,42,"[{'id': 924693, 'ime': 'Dean White'}]",9.3,2283
+Pisarna,Dinner Party,2008,30,"[{'id': 82450, 'ime': 'Paul Feig'}]",9.3,3436
+Doctor Who,Doomsday,2006,45,"[{'id': 363865, 'ime': 'Graeme Harper'}]",9.3,6353
+Buffy - Izganjalka vampirjev,Doppelgangland,1999,60,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.3,2478
+Imperij pregrehe,Eldorado,2014,60,"[{'id': 887700, 'ime': 'Timothy Van Patten'}]",9.3,2088
+Community,Epidemiology,2010,22,"[{'id': 376006, 'ime': 'Anthony Hemingway'}]",9.3,2634
+Taboo,Episode #1.8,2017,56,"[{'id': 257775, 'ime': 'Anders Engström'}]",9.3,3309
+Twin Peaks,Episode #2.22,1991,50,"[{'id': 186, 'ime': 'David Lynch'}]",9.3,3309
+Twin Peaks,Episode #2.9,1990,46,"[{'id': 6853, 'ime': 'Tim Hunter'}]",9.3,2764
+Zdravnikova vest,Euphoria: Part 2,2006,43,"[{'id': 764776, 'ime': 'Deran Sarafian'}]",9.3,2475
+Nadnaravno,First Born,2014,42,"[{'id': 824, 'ime': 'John Badham'}]",9.3,2641
+The Flash,Flash vs. Arrow,2014,42,"[{'id': 935732, 'ime': 'Glen Winter'}]",9.3,7344
+Sopranovi,Funhouse,2000,60,"[{'id': 666274, 'ime': 'John Patterson'}]",9.3,2680
+Hannibal,Futamono,2014,42,"[{'id': 6853, 'ime': 'Tim Hunter'}]",9.3,3747
+Pisarna,"Goodbye, Toby",2008,42,"[{'id': 82450, 'ime': 'Paul Feig'}]",9.3,2578
+Skrivnostni otok,Greatest Hits,2007,43,"[{'id': 931724, 'ime': 'Stephen Williams'}]",9.3,4451
+Peaky Blinders,Heathens,2017,57,"[{'id': 128452, 'ime': 'David Caffrey'}]",9.3,2956
+Nepremagljivi dvojec,High Noon,2012,43,"[{'id': 106230, 'ime': 'Kevin Bray'}]",9.3,2377
+Simpsonovi,Homer's Enemy,1997,30,"[{'id': 714114, 'ime': 'Jim Reardon'}]",9.3,3225
+Sense8,I Can't Leave Her,2015,54,"[{'id': 905154, 'ime': 'Lana Wachowski'}, {'id': 905152, 'ime': 'Lilly Wachowski'}]",9.3,4146
+Sense8,"If All the World's a Stage, Identity Is Nothing But a Costume",2017,52,"[{'id': 878756, 'ime': 'Tom Tykwer'}]",9.3,2382
+Nadnaravno,In My Time of Dying,2006,50,"[{'id': 543129, 'ime': 'Kim Manners'}]",9.3,4087
+Buffy - Izganjalka vampirjev,Innocence,1998,60,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.3,2415
+Puscica,Kapiushon,2017,42,"[{'id': 1160495, 'ime': 'Kevin Tancharoen'}]",9.3,3298
+Spartak: Kri in pesek,Kill Them All,2010,54,"[{'id': 1168394, 'ime': 'Jesse Warn'}]",9.3,4615
+Lov na osumljenca,Lethe,2013,44,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.3,2336
+Shadowhunters: The Mortal Instruments,Malec,2016,42,"[{'id': 550931, 'ime': 'James Marshall'}]",9.3,2978
+Lov na osumljenca,Many Happy Returns,2012,44,"[{'id': 870295, 'ime': 'Frederick E.O. Toye'}]",9.3,2668
+Futurama,Meanwhile,2013,22,"[{'id': 42796, 'ime': 'Peter Avanzino'}]",9.3,2114
+Lucifer,Monster,2016,43,"[{'id': 251032, 'ime': 'Eagle Egilsson'}]",9.3,2966
+Master of None,"New York, I Love You",2017,29,"[{'id': 1520649, 'ime': 'Alan Yang'}]",9.3,2262
+Pisarna,Niagara: Part 1,2009,30,"[{'id': 82450, 'ime': 'Paul Feig'}]",9.3,3111
+Lov na osumljenca,Number Crunch,2011,45,"[{'id': 402493, 'ime': 'Jeffrey G. Hunt'}]",9.3,2984
+Nadnaravno,On the Head of a Pin,2009,43,"[{'id': 737517, 'ime': 'Mike Rohl'}]",9.3,3210
+Oglasevalci,Person to Person,2015,56,"[{'id': 1980806, 'ime': 'Matthew Weiner'}]",9.3,2588
+Community,Pillows and Blankets,2012,22,"[{'id': 788426, 'ime': 'Tristram Shapeero'}]",9.3,2649
+Skrivnostni otok,Pilot: Part 1,2004,42,"[{'id': 9190, 'ime': 'J.J. Abrams'}]",9.3,7689
+The 100,Praimfaya,2017,41,"[{'id': 924693, 'ime': 'Dean White'}]",9.3,2662
+Lov na osumljenca,Prophets,2014,44,"[{'id': 277830, 'ime': 'Kenneth Fink'}]",9.3,2346
+Lucifer,Quid Pro Ho,2016,44,"[{'id': 394032, 'ime': 'Nathan Hope'}]",9.3,2437
+Lov na osumljenca,Razgovor,2013,44,"[{'id': 277830, 'ime': 'Kenneth Fink'}]",9.3,2419
+Beg iz zapora,"Riots, Drills and the Devil: Part 1",2005,60,"[{'id': 541677, 'ime': 'Robert Mandel'}]",9.3,3377
+Lov na osumljenca,Root Path,2014,43,"[{'id': 317021, 'ime': 'Jeffrey Lee Gibson'}]",9.3,2218
+Hannibal,Savoureux,2013,43,"[{'id': 1720541, 'ime': 'David Slade'}]",9.3,4049
+Puscica,Streets of Fire,2014,42,"[{'id': 178944, 'ime': 'Nick Copus'}]",9.3,4381
+Dexter,"Surprise, Motherfucker!",2012,56,"[{'id': 793455, 'ime': 'Steve Shill'}]",9.3,4746
+Lov na osumljenca,Synecdoche,2016,43,"[{'id': 1513, 'ime': 'Tim Matheson'}]",9.3,2457
+Lucifer,Take Me Back to Hell,2016,43,"[{'id': 394032, 'ime': 'Nathan Hope'}]",9.3,3236
+Hannibal,Takiawase,2014,42,"[{'id': 783751, 'ime': 'David Semel'}]",9.3,3776
+Lucifer,The Angel of San Bernardino,2018,43,"[{'id': 923423, 'ime': 'Tara Nicole Weyr'}]",9.3,2151
+Star Trek: The Next Generation,The Best of Both Worlds: Part II,1990,45,"[{'id': 92853, 'ime': 'Cliff Bole'}]",9.3,2692
+Puscica,The Brave and the Bold,2014,42,"[{'id': 1168394, 'ime': 'Jesse Warn'}]",9.3,5137
+Dexter,The British Invasion,2007,51,"[{'id': 793455, 'ime': 'Steve Shill'}]",9.3,3926
+Homeland,The Choice,2012,63,"[{'id': 191147, 'ime': 'Michael Cuesta'}]",9.3,3531
+Star Trek,The City on the Edge of Forever,1967,50,"[{'id': 678928, 'ime': 'Joseph Pevney'}]",9.3,3440
+Lov na osumljenca,The Cold War,2014,44,"[{'id': 644397, 'ime': 'Michael Offer'}]",9.3,2416
+Nadnaravno,The Devil in the Details,2016,42,"[{'id': 942869, 'ime': 'Thomas J. Wright'}]",9.3,2390
+Nadnaravno,The End,2009,60,"[{'id': 102434, 'ime': 'Steve Boyum'}]",9.3,3290
+Outlander,The Garrison Commander,2014,57,"[{'id': 446232, 'ime': 'Brian Kelly'}]",9.3,4122
+The Leftovers,The Garveys at Their Best,2014,56,"[{'id': 755261, 'ime': 'Daniel Sackheim'}]",9.3,3407
+Fargo,The Gift of the Magi,2015,54,"[{'id': 718001, 'ime': 'Jeffrey Reiner'}]",9.3,4935
+Doctor Who,The Girl in the Fireplace,2006,45,"[{'id': 528186, 'ime': 'Euros Lyn'}]",9.3,7928
+Narcos,"The Good, the Bad, and the Dead",2016,56,"[{'id': 1223381, 'ime': 'Andrés Baiz'}]",9.3,3742
+Skrivnostni otok,The Incident: Part 1,2009,42,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.3,4700
+Skrivnostni otok,The Incident: Part 2,2009,42,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.3,2469
+Pisarna,The Job,2007,42,"[{'id': 477129, 'ime': 'Ken Kwapis'}]",9.3,2590
+The Handmaid's Tale,The Last Ceremony,2018,55,"[{'id': 687964, 'ime': 'Jeremy Podeswa'}]",9.3,2269
+Futurama,The Late Philip J. Fry,2010,22,"[{'id': 42796, 'ime': 'Peter Avanzino'}]",9.3,2219
+One Punch Man: Wanpanman,The Lone Cyborg,2015,24,"[{'id': 2463335, 'ime': 'Shingo Natsume'}, {'id': 9026707, 'ime': ""Shin'ichirô Ushijima""}]",9.3,2079
+Skrivnostni otok,The Man Behind the Curtain,2007,43,"[{'id': 744794, 'ime': 'Bobby Roth'}]",9.3,4422
+Seinfeld,The Marine Biologist,1994,23,"[{'id': 156013, 'ime': 'Tom Cherones'}]",9.3,2373
+Prijatelji,The One with the Proposal: Part 2,2000,30,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.3,3177
+Prijatelji,The One with the Rumor,2001,22,"[{'id': 357143, 'ime': 'Gary Halvorson'}]",9.3,4222
+Prijatelji,The One with the Videotape,2001,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.3,3148
+Nadnaravno,The Prisoner,2015,42,"[{'id': 942869, 'ime': 'Thomas J. Wright'}]",9.3,2428
+Igra prestolov,The Queen's Justice,2017,63,"[{'id': 617042, 'ime': 'Mark Mylod'}]",9.3,30915
+South Park,The Return of the Fellowship of the Ring to the Two Towers,2002,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.3,3300
+Buffy - Izganjalka vampirjev,The Wish,1998,45,"[{'id': 339264, 'ime': 'David Greenwalt'}]",9.3,2382
+Puscica,Three Ghosts,2013,45,"[{'id': 67090, 'ime': 'John Behring'}]",9.3,5063
+Rick and Morty,Total Rickall,2015,22,"[{'id': 1090137, 'ime': 'Juan Jose Meza-Leon'}, {'id': 585086, 'ime': 'Pete Michels'}]",9.3,9439
+Westworld,Trompe L'Oeil,2016,56,"[{'id': 870295, 'ime': 'Frederick E.O. Toye'}]",9.3,15287
+Dexter,Truth Be Told,2006,54,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.3,4046
+Agenti SHIELD,"Turn, Turn, Turn",2014,44,"[{'id': 592813, 'ime': 'Vincent Misiano'}]",9.3,4225
+Nadnaravno,Two Minutes to Midnight,2010,60,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.3,3033
+Doctor Who,Vincent and the Doctor,2010,47,"[{'id': 132600, 'ime': 'Jonny Campbell'}]",9.3,7765
+Agenti SHIELD,What They Become,2014,43,"[{'id': 956910, 'ime': 'Michael Zinberg'}]",9.3,3535
+Puscica,What We Leave Behind,2016,42,"[{'id': 624423, 'ime': 'Antonio Negret'}]",9.3,3103
+Na robu znanosti,White Tulip,2010,44,"[{'id': 946849, 'ime': 'Thomas Yatsko'}]",9.3,2322
+Hannibal,Yakimono,2014,42,"[{'id': 753382, 'ime': 'Michael Rymer'}]",9.3,3558
+Nadnaravno,Yellow Fever,2008,43,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.3,4208
+Igra prestolov,You Win or You Die,2011,58,"[{'id': 590889, 'ime': 'Daniel Minahan'}]",9.3,19432
+Mr. Robot,eps1.0_hellofriend.mov,2015,62,"[{'id': 649117, 'ime': 'Niels Arden Oplev'}]",9.3,10986
+Mr. Robot,eps1.8_m1rr0r1ng.qt,2015,49,"[{'id': 110644, 'ime': 'Tricia Brock'}]",9.3,6785
+Mr. Robot,eps2.8_h1dden-pr0cess.axx,2016,43,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.3,3955
+Mr. Robot,eps3.1_undo.gz,2017,47,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.3,2842
+Lucifer,#TeamLucifer,2016,44,"[{'id': 66439, 'ime': 'Greg Beeman'}]",9.2,2930
+Igra prestolov,A Golden Crown,2011,53,"[{'id': 590889, 'ime': 'Daniel Minahan'}]",9.2,19047
+Lucifer,A Priest Walks Into a Bar,2016,42,"[{'id': 292468, 'ime': 'David Frazee'}]",9.2,3326
+South Park,AWESOM-O,2004,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.2,2868
+Pravi detektiv,After You've Gone,2014,54,"[{'id': 1560977, 'ime': 'Cary Joji Fukunaga'}]",9.2,10137
+Nadnaravno,All Hell Breaks Loose: Part 1,2007,50,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.2,3412
+Vikings,All His Angels,2016,44,"[{'id': 1012772, 'ime': 'Ciaran Donnelly'}]",9.2,7153
+Sense8,All I Want Right Now Is One More Bullet,2017,56,"[{'id': 321922, 'ime': 'Dan Glass'}]",9.2,2182
+Nadnaravno,Appointment in Samarra,2010,42,"[{'id': 737517, 'ime': 'Mike Rohl'}]",9.2,2494
+The Crown,Assassins,2016,60,"[{'id': 139081, 'ime': 'Benjamin Caron'}]",9.2,2258
+Zdravnikova vest,Autopsy,2005,44,"[{'id': 764776, 'ime': 'Deran Sarafian'}]",9.2,2787
+Lov na osumljenca,Bad Code,2012,44,"[{'id': 143984, 'ime': 'Jon Cassar'}]",9.2,2430
+Buffy - Izganjalka vampirjev,Becoming: Part 1,1998,60,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.2,2298
+Agenti SHIELD,Beginning of the End,2014,44,"[{'id': 833191, 'ime': 'David Straiton'}]",9.2,3413
+Igra prestolov,Beyond the Wall,2017,70,"[{'id': 851930, 'ime': 'Alan Taylor'}]",9.2,43102
+Igra prestolov,Book of the Stranger,2016,59,"[{'id': 755261, 'ime': 'Daniel Sackheim'}]",9.2,24774
+South Park,Casa Bonita,2003,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.2,2589
+Pisarna,Casino Night,2006,29,"[{'id': 477129, 'ime': 'Ken Kwapis'}]",9.2,3112
+The Leftovers,Certified,2017,58,"[{'id': 2083, 'ime': 'Carl Franklin'}]",9.2,2594
+House of Cards,Chapter 32,2015,54,"[{'id': 1226, 'ime': 'James Foley'}]",9.2,4236
+Legion,Chapter 5,2017,52,"[{'id': 2139803, 'ime': 'Tim Mielants'}]",9.2,3661
+House of Cards,Chapter 64,2017,54,"[{'id': 705, 'ime': 'Robin Wright'}]",9.2,2459
+Stranger Things,Chapter Six: The Spy,2017,51,"[{'id': 4056, 'ime': 'Andrew Stanton'}]",9.2,10405
+Heroji,Chapter Twenty 'Five Years Gone',2007,43,"[{'id': 250267, 'ime': 'Paul A. Edwards'}]",9.2,2358
+Zivi mrtveci,Conquer,2015,65,"[{'id': 630524, 'ime': 'Greg Nicotero'}]",9.2,12599
+Kriva pota,Crazy Handful of Nothin',2008,48,"[{'id': 400486, 'ime': 'Bronwen Hughes'}]",9.2,13220
+Battlestar Galactica,Crossroads: Part 2,2007,48,"[{'id': 753382, 'ime': 'Michael Rymer'}]",9.2,2083
+Zivi mrtveci,Days Gone Bye,2010,67,"[{'id': 1104, 'ime': 'Frank Darabont'}]",9.2,17540
+Nadnaravno,Death's Door,2011,42,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.2,2911
+Skrivnostni otok,Deus Ex Machina,2005,43,"[{'id': 541677, 'ime': 'Robert Mandel'}]",9.2,4048
+Dexter,Dex Takes a Holiday,2009,55,"[{'id': 1093, 'ime': 'John Dahl'}]",9.2,3188
+Mindhunter,Episode #1.10,2017,52,"[{'id': 399, 'ime': 'David Fincher'}]",9.2,3106
+Peaky Blinders,Episode #1.6,2013,55,"[{'id': 2197777, 'ime': 'Tom Harper'}]",9.2,3326
+The Flash,Escape from Earth-2,2016,41,"[{'id': 538387, 'ime': 'J.J. Makaro'}]",9.2,3984
+Zdravnikova vest,Everybody Dies,2012,44,"[{'id': 794914, 'ime': 'David Shore'}]",9.2,4102
+Skrivnostni otok,Exodus: Part 1,2005,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.2,4141
+Obmocje somraka,Eye of the Beholder,1960,25,"[{'id': 382227, 'ime': 'Douglas Heyes'}]",9.2,3007
+Sinovi anarhije,Faith and Despondency,2014,70,"[{'id': 54077, 'ime': 'Paris Barclay'}]",9.2,2032
+Lov na osumljenca,Flesh and Blood,2012,44,"[{'id': 2377, 'ime': 'Stephen Semel'}]",9.2,2545
+Buffy - Izganjalka vampirjev,Fool for Love,2000,60,"[{'id': 545763, 'ime': 'Nick Marck'}]",9.2,2111
+Vampirski dnevniki,Founder's Day,2010,42,"[{'id': 796864, 'ime': 'Marcos Siega'}]",9.2,2079
+Pisarna,Garage Sale,2011,30,"[{'id': 136797, 'ime': 'Steve Carell'}]",9.2,2297
+Narcos,Going Back to Cali,2017,50,"[{'id': 1223381, 'ime': 'Andrés Baiz'}]",9.2,2415
+Buffy - Izganjalka vampirjev,Graduation Day: Part 2,1999,60,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.2,2268
+Kriva pota,Grilled,2009,46,"[{'id': 354024, 'ime': 'Charles Haid'}]",9.2,12332
+Homeland,Halfway to a Donut,2014,50,"[{'id': 336241, 'ime': 'Alex Graves'}]",9.2,2698
+Pravi detektiv,Haunted Houses,2014,59,"[{'id': 1560977, 'ime': 'Cary Joji Fukunaga'}]",9.2,10516
+The Flash,Infantino Street,2017,42,"[{'id': 21592, 'ime': 'Michael A. Allowitz'}]",9.2,3376
+The Flash,Invasion!,2016,42,"[{'id': 236173, 'ime': 'Dermott Downs'}]",9.2,3932
+Puscica,Invasion!,2016,42,"[{'id': 51466, 'ime': 'James Bamford'}]",9.2,3748
+Legends of Tomorrow,Invasion!,2016,42,"[{'id': 808376, 'ime': 'Gregory Smith'}]",9.2,2481
+Zivi mrtveci,JSS,2015,44,"[{'id': 528337, 'ime': 'Jennifer Lynch'}]",9.2,11866
+Zivi mrtveci,Killer Within,2012,43,"[{'id': 272704, 'ime': 'Guy Ferland'}]",9.2,11226
+Better Call Saul,Lantern,2017,56,"[{'id': 332467, 'ime': 'Peter Gould'}]",9.2,4209
+Sodobna družina,Las Vegas,2014,21,"[{'id': 541562, 'ime': 'Gail Mancuso'}]",9.2,2247
+The Leftovers,Lens,2015,57,"[{'id': 957505, 'ime': 'Craig Zobel'}]",9.2,2809
+Kriva pota,Live Free or Die,2012,43,"[{'id': 806252, 'ime': 'Michael Slovis'}]",9.2,14368
+Skrivnostni otok,Lockdown,2006,43,"[{'id': 931724, 'ime': 'Stephen Williams'}]",9.2,3581
+Dexter,Lost Boys,2009,57,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.2,3149
+Lucifer,Love Handles,2017,43,"[{'id': 4610, 'ime': 'Karen Gaviola'}]",9.2,2207
+Gotham,Mad City: The Gentle Art of Making Enemies,2017,43,"[{'id': 587508, 'ime': 'Louis Shaw Milito'}]",9.2,2251
+Skrivnostni otok,"Man of Science, Man of Faith",2005,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.2,4479
+American Crime Story,Manna from Heaven,2016,50,"[{'id': 376006, 'ime': 'Anthony Hemingway'}]",9.2,2265
+Agenti SHIELD,Maveth,2015,42,"[{'id': 592813, 'ime': 'Vincent Misiano'}]",9.2,2261
+Nadnaravno,Meet the New Boss,2011,43,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.2,3138
+The Punisher,Memento Mori,2017,55,"[{'id': 839660, 'ime': 'Stephen Surjik'}]",9.2,4876
+Igra prestolov,Mhysa,2013,63,"[{'id': 638354, 'ime': 'David Nutter'}]",9.2,18772
+Star Trek,"Mirror, Mirror",1967,50,"[{'id': 200022, 'ime': 'Marc Daniels'}]",9.2,2653
+Puscica,Missing,2017,42,"[{'id': 21772, 'ime': 'Mairzee Almas'}]",9.2,2388
+Igra prestolov,Mockingbird,2014,51,"[{'id': 2399, 'ime': 'Alik Sakharov'}]",9.2,18931
+Lov na osumljenca,Mors Praematura,2013,44,"[{'id': 1726, 'ime': 'Helen Shaver'}]",9.2,2188
+Dosjeji X,Musings of a Cigarette Smoking Man,1996,45,"[{'id': 939128, 'ime': 'James Wong'}]",9.2,3430
+The Handmaid's Tale,Night,2017,60,"[{'id': 804556, 'ime': 'Kari Skogland'}]",9.2,2994
+Obmocje somraka,"Nightmare at 20,000 Feet",1963,25,"[{'id': 1149, 'ime': 'Richard Donner'}]",9.2,2750
+Shingeki no kyojin,Nisen-nengo no Kimi e: Shiganshina Kanraku (1),2013,25,"[{'id': 2013928, 'ime': 'Tetsurô Araki'}, {'id': 2485876, 'ime': 'Hiroyuki Tanaka'}]",9.2,2443
+Lov na osumljenca,No Good Deed,2012,44,"[{'id': 931724, 'ime': 'Stephen Williams'}]",9.2,2423
+The Leftovers,No Room at the Inn,2015,56,"[{'id': 975026, 'ime': 'Nicole Kassell'}]",9.2,2947
+Skrivnostni otok,Numbers,2005,43,"[{'id': 3733, 'ime': 'Daniel Attias'}]",9.2,4143
+Agenti SHIELD,Orientation: Part 1,2017,42,"[{'id': 1061992, 'ime': 'Jesse Bochco'}]",9.2,2024
+Homeland,Our Man in Damascus,2015,60,"[{'id': 542960, 'ime': 'Seith Mann'}]",9.2,2297
+Firefly,Out of Gas,2002,44,"[{'id': 813313, 'ime': 'David Solomon'}]",9.2,4424
+Dosjeji X,Paper Clip,1995,45,"[{'id': 101385, 'ime': 'Rob Bowman'}]",9.2,3059
+Rick and Morty,Pickle Rick,2017,23,"[{'id': 161125, 'ime': 'Anthony Chun'}, {'id': 33741, 'ime': 'Wesley Archer'}]",9.2,9640
+Odbita rodbina,Pier Pressure,2004,22,"[{'id': 751648, 'ime': 'Joe Russo'}]",9.2,2157
+Skrivnostni otok,Pilot: Part 2,2004,40,"[{'id': 9190, 'ime': 'J.J. Abrams'}]",9.2,5745
+Zivi mrtveci,Pretty Much Dead Already,2011,43,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.2,11935
+Dosjeji X,Redux II,1997,46,"[{'id': 543129, 'ime': 'Kim Manners'}]",9.2,2573
+Beg iz zapora,"Riots, Drills and the Devil: Part 2",2005,60,"[{'id': 319412, 'ime': 'Vern Gillum'}]",9.2,3024
+Gotham,Rise of the Villains: Worse Than a Crime,2015,43,"[{'id': 402493, 'ime': 'Jeffrey G. Hunt'}]",9.2,2711
+The Flash,Rogue Air,2015,42,"[{'id': 7439, 'ime': 'Douglas Aarniokoski'}]",9.2,5510
+Agenti SHIELD,S.O.S. Part 1,2015,43,"[{'id': 592813, 'ime': 'Vincent Misiano'}]",9.2,2838
+Lov na osumljenca,SNAFU,2016,43,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.2,2493
+Dexter,Seeing Red,2006,56,"[{'id': 191147, 'ime': 'Michael Cuesta'}]",9.2,3999
+Daredevil,Speak of the Devil,2015,58,"[{'id': 1879589, 'ime': 'Nelson McCormick'}]",9.2,6675
+Cosmos: A Spacetime Odyssey,Standing Up in the Milky Way,2014,44,"[{'id': 103804, 'ime': 'Brannon Braga'}, {'id': 238668, 'ime': 'Ann Druyan'}, {'id': 691084, 'ime': 'Bill Pope'}]",9.2,2530
+Nadnaravno,Stuck in the Middle (With You),2017,42,"[{'id': 817620, 'ime': 'Richard Speight Jr.'}]",9.2,2016
+Nepremagljivi dvojec,Sucker Punch,2012,43,"[{'id': 203215, 'ime': 'Adam Davidson'}]",9.2,2006
+Kriva pota,Sunset,2010,47,"[{'id': 793062, 'ime': 'John Shiban'}]",9.2,10993
+Buffy - Izganjalka vampirjev,Tabula Rasa,2001,42,"[{'id': 343622, 'ime': 'David Grossman'}]",9.2,2211
+Nadnaravno,Tall Tales,2007,48,"[{'id': 561879, 'ime': 'Bradford May'}]",9.2,3893
+Zivi mrtveci,Thank You,2015,43,"[{'id': 806252, 'ime': 'Michael Slovis'}]",9.2,12772
+Veliki pokovci,The Bath Item Gift Hypothesis,2008,21,"[{'id': 148252, 'ime': 'Mark Cendrowski'}]",9.2,4120
+The Night Of,The Beach,2016,79,"[{'id': 1873, 'ime': 'Steven Zaillian'}]",9.2,4698
+Doctor Who,The Big Bang,2010,54,"[{'id': 1595284, 'ime': 'Toby Haynes'}]",9.2,5182
+Skrivnostni otok,The Brig,2007,43,"[{'id': 485637, 'ime': 'Eric Laneuville'}]",9.2,3842
+Lov na osumljenca,The Contingency,2012,44,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.2,2735
+11.22.63,The Day in Question,2016,57,"[{'id': 1326093, 'ime': 'James Strong'}]",9.2,2607
+Doctor Who,The Family of Blood,2007,45,"[{'id': 1266701, 'ime': 'Charlie Palmer'}]",9.2,5996
+Nadnaravno,The Girl with the Dungeons and Dragons Tattoo,2012,43,"[{'id': 531453, 'ime': 'John MacCarthy'}]",9.2,2686
+Lucifer,"The Good, the Bad, and the Crispy",2017,43,"[{'id': 4610, 'ime': 'Karen Gaviola'}]",9.2,2126
+Sherlock,The Great Game,2010,89,"[{'id': 6476, 'ime': 'Paul McGuigan'}]",9.2,21389
+Sopranovi,The Knight in White Satin Armor,2000,61,"[{'id': 2339, 'ime': 'Allen Coulter'}]",9.2,2356
+Pravi detektiv,The Locked Room,2014,60,"[{'id': 1560977, 'ime': 'Cary Joji Fukunaga'}]",9.2,11622
+Sherlock,The Lying Detective,2017,89,"[{'id': 403541, 'ime': 'Nick Hurran'}]",9.2,21891
+Daredevil,The Man in the Box,2016,52,"[{'id': 387486, 'ime': 'Peter Hoar'}]",9.2,4984
+Kako sem spoznal vajino mamo,The Naked Man,2008,30,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.2,3420
+Penny Dreadful,The Nightcomers,2015,59,"[{'id': 1047532, 'ime': 'Brian Kirk'}]",9.2,2637
+Hannibal,The Number of the Beast Is 666,2015,44,"[{'id': 622897, 'ime': 'Guillermo Navarro'}]",9.2,2745
+Prijatelji,The One Where Ross Got High,1999,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.2,3214
+Prijatelji,The One with All the Thanksgivings,1998,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.2,3293
+Prijatelji,The One with Chandler in a Box,1997,22,"[{'id': 94288, 'ime': 'Peter Bonerz'}]",9.2,3226
+Prijatelji,The One with Ross's Wedding: Part Two,1998,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.2,3252
+Veliki pokovci,The Opening Night Excitation,2015,21,"[{'id': 148252, 'ime': 'Mark Cendrowski'}]",9.2,3456
+Daredevil,The Perfect Game,2018,49,"[{'id': 391905, 'ime': 'Julian Holmes'}]",9.2,2049
+Kako sem spoznal vajino mamo,The Pineapple Incident,2005,23,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.2,3908
+Puscica,The Promise,2014,45,"[{'id': 935732, 'ime': 'Glen Winter'}]",9.2,4315
+Castle Rock,The Queen,2018,59,"[{'id': 944981, 'ime': 'Greg Yaitanes'}]",9.2,2322
+Skrivnostni otok,The Shape of Things to Come,2008,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.2,3945
+Lucifer,The Sin Bin,2017,43,"[{'id': 66439, 'ime': 'Greg Beeman'}]",9.2,2195
+One Punch Man: Wanpanman,The Strongest Man,2015,25,"[{'id': 2463335, 'ime': 'Shingo Natsume'}]",9.2,2255
+Ozark,The Toll,2017,80,"[{'id': 867, 'ime': 'Jason Bateman'}]",9.2,2695
+American Crime Story,The Verdict,2016,66,"[{'id': 614682, 'ime': 'Ryan Murphy'}]",9.2,2184
+Westworld,The Well-Tempered Clavier,2016,58,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.2,13831
+Na robu znanosti,There's More Than One of Everything,2009,48,"[{'id': 26442, 'ime': 'Brad Anderson'}]",9.2,2014
+Skrivnostni otok,There's No Place Like Home: Part 3,2008,44,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.2,2505
+Dexter,This Is the Way the World Ends,2011,51,"[{'id': 1093, 'ime': 'John Dahl'}]",9.2,4537
+Pisarna,Threat Level Midnight,2011,30,"[{'id': 3163, 'ime': 'Tucker Gates'}]",9.2,2924
+Obmocje somraka,To Serve Man,1962,25,"[{'id': 54374, 'ime': 'Richard L. Bare'}]",9.2,2673
+Beg iz zapora,Tonight,2006,60,"[{'id': 744794, 'ime': 'Bobby Roth'}]",9.2,2762
+The Flash,Tricksters,2015,42,"[{'id': 375973, 'ime': 'Ralph Hemecker'}]",9.2,5534
+Zdravnikova vest,Under My Skin,2009,60,"[{'id': 833191, 'ime': 'David Straiton'}]",9.2,2126
+The Punisher,Virtue of the Vicious,2017,49,"[{'id': 1317262, 'ime': ""Jim O'Hanlon""}]",9.2,4659
+Skrivnostni otok,Walkabout,2004,42,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.2,5061
+Nadnaravno,Weekend at Bobby's,2010,40,"[{'id': 10075, 'ime': 'Jensen Ackles'}]",9.2,3025
+Sense8,What Family Actually Means,2017,57,"[{'id': 905154, 'ime': 'Lana Wachowski'}]",9.2,2092
+Black Mirror,White Christmas,2014,73,"[{'id': 3393440, 'ime': 'Carl Tibbetts'}]",9.2,32540
+Sense8,Who Am I?,2017,51,"[{'id': 905154, 'ime': 'Lana Wachowski'}]",9.2,2414
+Fargo,Who Rules the Land of Denial?,2017,52,"[{'id': 54954, 'ime': 'Mike Barker'}]",9.2,3425
+Better Call Saul,Wiedersehen,2018,54,"[{'id': 319213, 'ime': 'Vince Gilligan'}]",9.2,2315
+Doctor Who,World Enough and Time,2017,45,"[{'id': 3080, 'ime': 'Rachel Talalay'}]",9.2,2988
+Gotham,Wrath of the Villains: Into the Woods,2016,44,"[{'id': 779641, 'ime': 'Oz Scott'}]",9.2,2337
+Star Trek: The Next Generation,Yesterday's Enterprise,1990,60,"[{'id': 141222, 'ime': 'David Carson'}]",9.2,2910
+Simpsonovi,You Only Move Twice,1996,30,"[{'id': 27214, 'ime': 'Mike B. Anderson'}]",9.2,3303
+Mr. Robot,eps1.5_br4ve-trave1er.asf,2015,45,"[{'id': 1278887, 'ime': 'Deborah Chow'}]",9.2,6945
+Mr. Robot,eps3.7_dont-delete-me.ko,2017,47,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.2,3054
+Doctor Who,A Good Man Goes to War,2011,49,"[{'id': 387486, 'ime': 'Peter Hoar'}]",9.1,5298
+Once Upon a Time,A Land Without Magic,2012,45,"[{'id': 924693, 'ime': 'Dean White'}]",9.1,2202
+Sherlock,A Study in Pink,2010,88,"[{'id': 6476, 'ime': 'Paul McGuigan'}]",9.1,24276
+Kriva pota,ABQ,2009,48,"[{'id': 2835, 'ime': 'Adam Bernstein'}]",9.1,11437
+Jessica Jones,AKA Sin Bin,2015,55,"[{'id': 1093, 'ime': 'John Dahl'}]",9.1,4387
+Sopranovi,All Due Respect,2004,56,"[{'id': 666274, 'ime': 'John Patterson'}]",9.1,2004
+Sense8,Amor Vincit Omnia,2018,152,"[{'id': 905154, 'ime': 'Lana Wachowski'}]",9.1,3479
+Sopranovi,Amour Fou,2001,60,"[{'id': 887700, 'ime': 'Timothy Van Patten'}]",9.1,2111
+The Blacklist,Anslo Garrick (No. 16),2013,42,"[{'id': 138620, 'ime': 'Joe Carnahan'}]",9.1,2354
+Nadnaravno,As Time Goes By,2013,43,"[{'id': 1645, 'ime': 'Serge Ladouceur'}]",9.1,2570
+Dark,"As You Sow, so You Shall Reap",2017,50,"[{'id': 2171633, 'ime': 'Baran bo Odar'}]",9.1,2369
+Agenti SHIELD,Ascension,2016,43,"[{'id': 1160495, 'ime': 'Kevin Tancharoen'}]",9.1,2045
+Pisarna,Beach Games,2007,28,"[{'id': 601, 'ime': 'Harold Ramis'}]",9.1,2376
+Zivi mrtveci,Beside the Dying Fire,2012,42,"[{'id': 225416, 'ime': 'Ernest R. Dickerson'}]",9.1,11273
+Kako sem spoznal vajino mamo,Blitzgiving,2010,22,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.1,3170
+Outlander,Both Sides Now,2014,55,"[{'id': 283816, 'ime': 'Anna Foerster'}]",9.1,3369
+Kriva pota,Box Cutter,2011,48,"[{'id': 2835, 'ime': 'Adam Bernstein'}]",9.1,12059
+Pisarna,Broke,2009,30,"[{'id': 136797, 'ime': 'Steve Carell'}]",9.1,2093
+Puscica,Broken Arrow,2015,42,"[{'id': 7439, 'ime': 'Douglas Aarniokoski'}]",9.1,4055
+Simpsonovi,Cape Feare,1993,30,"[{'id': 601781, 'ime': 'Rich Moore'}]",9.1,2861
+House of Cards,Chapter 11,2013,55,"[{'id': 2083, 'ime': 'Carl Franklin'}]",9.1,4160
+House of Cards,Chapter 17,2014,48,"[{'id': 1226, 'ime': 'James Foley'}]",9.1,3892
+House of Cards,Chapter 37,2015,53,"[{'id': 2140, 'ime': 'Agnieszka Holland'}]",9.1,3287
+Stranger Things,Chapter Seven: The Bathtub,2016,41,"[{'id': 1819972, 'ime': 'Matt Duffer'}, {'id': 1819973, 'ime': 'Ross Duffer'}]",9.1,11844
+Heroji,Chapter Seventeen 'Company Man',2007,43,"[{'id': 35106, 'ime': 'Allan Arkush'}]",9.1,2049
+Puscica,Checkmate,2017,42,"[{'id': 788048, 'ime': 'Ken Shane'}]",9.1,2400
+Puscica,City of Blood,2014,42,"[{'id': 776317, 'ime': 'Michael Schultz'}]",9.1,4079
+Rick and Morty,Close Rick-counters of the Rick Kind,2014,23,"[{'id': 1776046, 'ime': 'Stephen Sandoval'}, {'id': 585086, 'ime': 'Pete Michels'}]",9.1,7817
+Agenti SHIELD,Closure,2015,43,"[{'id': 940668, 'ime': 'Kate Woods'}]",9.1,2115
+Daredevil,Condemned,2015,48,"[{'id': 272704, 'ime': 'Guy Ferland'}]",9.1,6641
+Community,Cooperative Calligraphy,2010,22,"[{'id': 751648, 'ime': 'Joe Russo'}]",9.1,2134
+Legends of Tomorrow,"Crisis on Earth-X, Part 4",2017,42,"[{'id': 808376, 'ime': 'Gregory Smith'}]",9.1,2330
+Puscica,Darkness on the Edge of Town,2013,42,"[{'id': 67090, 'ime': 'John Behring'}]",9.1,4178
+The Leftovers,Don't Be Ridiculous,2017,59,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.1,2536
+Dosjeji X,Dreamland,1998,45,"[{'id': 101385, 'ime': 'Rob Bowman'}]",9.1,2700
+Fargo,Eating the Blame,2014,50,"[{'id': 251848, 'ime': 'Randall Einhorn'}]",9.1,5610
+Beg iz zapora,End of the Tunnel,2005,60,"[{'id': 95424, 'ime': 'Sanford Bookstaver'}]",9.1,2669
+Peaky Blinders,Episode #1.5,2013,57,"[{'id': 2197777, 'ime': 'Tom Harper'}]",9.1,2982
+Twin Peaks,Episode #1.8,1990,46,"[{'id': 4111, 'ime': 'Mark Frost'}]",9.1,2985
+Peaky Blinders,Episode #3.2,2016,57,"[{'id': 2139803, 'ime': 'Tim Mielants'}]",9.1,2284
+Zdravnikova vest,Euphoria: Part 1,2006,42,"[{'id': 764776, 'ime': 'Deran Sarafian'}]",9.1,2279
+Sense8,Fear Never Fixed Anything,2017,51,"[{'id': 574625, 'ime': 'James McTeigue'}]",9.1,2109
+BoJack Horseman,Fish Out of Water,2016,25,"[{'id': 2288960, 'ime': 'Mike Hollingsworth'}]",9.1,4064
+The Flash,Flash Back,2016,42,"[{'id': 1488618, 'ime': 'Alice Troughton'}]",9.1,4007
+Skrivnostni otok,Flashes Before Your Eyes,2007,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.1,4363
+Hannibal,Fromage,2013,43,"[{'id': 6853, 'ime': 'Tim Hunter'}]",9.1,3673
+The Punisher,Front Toward Enemy,2017,54,"[{'id': 1305344, 'ime': 'Marc Jobst'}]",9.1,4023
+Nadnaravno,Frontierland,2011,60,"[{'id': 66218, 'ime': 'Guy Norman Bee'}]",9.1,2681
+Zdravnikova vest,Frozen,2008,44,"[{'id': 833191, 'ime': 'David Straiton'}]",9.1,2309
+Kako sem spoznal vajino mamo,Game Night,2006,23,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.1,3145
+Kako sem spoznal vajino mamo,Girls vs. Suits,2010,30,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.1,3500
+Better Call Saul,Gloves Off,2016,43,"[{'id': 2835, 'ime': 'Adam Bernstein'}]",9.1,4230
+Dexter,Go Your Own Way,2008,50,"[{'id': 1093, 'ime': 'John Dahl'}]",9.1,2956
+South Park,Good Times with Weapons,2004,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.1,2868
+Buffy - Izganjalka vampirjev,Graduation Day: Part 1,1999,60,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.1,2090
+South Park,Grounded Vindaloop,2014,23,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.1,2728
+Daredevil,Guilty as Sin,2016,54,"[{'id': 881461, 'ime': 'Michael Uppendahl'}]",9.1,5146
+Zdravnikova vest,Half-Wit,2007,60,"[{'id': 414498, 'ime': 'Katie Jacobs'}]",9.1,2270
+Nadnaravno,Hammer of the Gods,2010,60,"[{'id': 98400, 'ime': 'Rick Bota'}]",9.1,3202
+Nadnaravno,Heaven and Hell,2008,43,"[{'id': 864936, 'ime': 'J. Miller Tobin'}]",9.1,3097
+Kriva pota,Hermanos,2011,47,"[{'id': 719307, 'ime': 'Johan Renck'}]",9.1,11038
+The Crown,Hyde Park Corner,2016,61,"[{'id': 197636, 'ime': 'Stephen Daldry'}]",9.1,2730
+Sopranovi,I Dream of Jeannie Cusamano,1999,60,"[{'id': 666274, 'ime': 'John Patterson'}]",9.1,2557
+The Flash,Invincible,2016,42,"[{'id': 1168394, 'ime': 'Jesse Warn'}]",9.1,3840
+Sopranovi,Irregular Around the Margins,2004,52,"[{'id': 2339, 'ime': 'Allen Coulter'}]",9.1,2037
+Dosjeji X,Jose Chung's 'From Outer Space',1996,45,"[{'id': 101385, 'ime': 'Rob Bowman'}]",9.1,3971
+Doctor Who,Journey's End,2008,63,"[{'id': 363865, 'ime': 'Graeme Harper'}]",9.1,5791
+Sense8,Just Turn the Wheel and the Future Changes,2015,48,"[{'id': 878756, 'ime': 'Tom Tykwer'}]",9.1,3418
+Better Call Saul,Klick,2016,48,"[{'id': 319213, 'ime': 'Vince Gilligan'}]",9.1,4288
+Hannibal,Ko No Mono,2014,44,"[{'id': 1720541, 'ime': 'David Slade'}]",9.1,3327
+Simpsonovi,Last Exit to Springfield,1993,30,"[{'id': 456658, 'ime': 'Mark Kirkland'}]",9.1,2502
+Dexter,Left Turn Ahead,2007,51,"[{'id': 796864, 'ime': 'Marcos Siega'}]",9.1,3198
+The Flash,Legends of Today,2015,43,"[{'id': 375973, 'ime': 'Ralph Hemecker'}]",9.1,4561
+Puscica,Legends of Yesterday,2015,44,"[{'id': 294457, 'ime': 'Thor Freudenthal'}]",9.1,3862
+Na robu znanosti,Letters of Transit,2012,43,"[{'id': 152640, 'ime': 'Joe Chappelle'}]",9.1,2120
+Zdravnikova vest,Locked In,2009,60,"[{'id': 3733, 'ime': 'Daniel Attias'}]",9.1,2304
+Narcos,Los Pepes,2016,54,"[{'id': 2129610, 'ime': 'Josef Kubota Wladyka'}]",9.1,3199
+Buffy - Izganjalka vampirjev,Lovers Walk,1998,60,"[{'id': 783751, 'ime': 'David Semel'}]",9.1,2348
+Sopranovi,Made in America,2007,59,"[{'id': 153740, 'ime': 'David Chase'}]",9.1,4894
+Agenti SHIELD,"Many Heads, One Tale",2015,43,"[{'id': 113596, 'ime': 'Garry A. Brown'}]",9.1,2088
+Homeland,Marine One,2011,84,"[{'id': 191147, 'ime': 'Michael Cuesta'}]",9.1,3154
+Twin Peaks,May the Giant Be with You,1990,93,"[{'id': 186, 'ime': 'David Lynch'}]",9.1,2945
+Sopranovi,Members Only,2006,53,"[{'id': 887700, 'ime': 'Timothy Van Patten'}]",9.1,2093
+Better Call Saul,Mijo,2015,46,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.1,9491
+Dexter,Morning Comes,2007,49,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.1,3278
+Mladi zdravniki,My Musical,2007,24,"[{'id': 533414, 'ime': 'Will Mackenzie'}]",9.1,2381
+Lov na osumljenca,Nautilus,2014,43,"[{'id': 1084723, 'ime': 'Chris Fisher'}]",9.1,2288
+Zdravnikova vest,Nobody's Fault,2012,44,"[{'id': 944981, 'ime': 'Greg Yaitanes'}]",9.1,2008
+Sense8,Obligate Mutualisms,2017,51,"[{'id': 905154, 'ime': 'Lana Wachowski'}]",9.1,2220
+Lov na osumljenca,Panopticon,2014,43,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.1,2572
+Shadowhunters: The Mortal Instruments,Parabatai Lost,2017,42,"[{'id': 808376, 'ime': 'Gregory Smith'}]",9.1,2036
+Community,Paradigms of Human Memory,2011,21,"[{'id': 788426, 'ime': 'Tristram Shapeero'}, {'id': 2122478, 'ime': 'Duke Johnson'}]",9.1,2138
+Gotham,Penguin's Umbrella,2014,42,"[{'id': 47458, 'ime': 'Rob Bailey'}]",9.1,4813
+Kriva pota,Phoenix,2009,47,"[{'id': 118778, 'ime': 'Colin Bucksey'}]",9.1,11356
+Nadnaravno,Point of No Return,2010,60,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.1,2657
+Homeland,Q&A,2012,56,"[{'id': 322128, 'ime': 'Lesli Linka Glatter'}]",9.1,2779
+Gotham,"Rise of the Villains: Knock, Knock",2015,45,"[{'id': 47458, 'ime': 'Rob Bailey'}]",9.1,3384
+Gotham,Rise of the Villains: Mommy's Little Monster,2015,44,"[{'id': 277830, 'ime': 'Kenneth Fink'}]",9.1,2694
+Gotham,Rise of the Villains: The Last Laugh,2015,45,"[{'id': 251032, 'ime': 'Eagle Egilsson'}]",9.1,3268
+Gotham,Rise of the Villains: The Son of Gotham,2015,44,"[{'id': 47458, 'ime': 'Rob Bailey'}]",9.1,2599
+Nadnaravno,Road Trip,2014,43,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.1,2414
+Better Call Saul,Sabrosito,2017,47,"[{'id': 1041475, 'ime': 'Thomas Schnauz'}]",9.1,3881
+Hannibal,Sakizuke,2014,42,"[{'id': 6853, 'ime': 'Tim Hunter'}]",9.1,3688
+Igra prestolov,Second Sons,2013,56,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.1,16324
+Beg iz zapora,Selfless,2008,44,"[{'id': 842830, 'ime': 'Michael Switzer'}]",9.1,2365
+Daredevil,Shadows in the Glass,2015,53,"[{'id': 839660, 'ime': 'Stephen Surjik'}]",9.1,6414
+Nepremagljivi dvojec,She Knows,2012,48,"[{'id': 1226492, 'ime': 'Michael Smith'}]",9.1,2282
+Dexter,Shrink Wrap,2006,53,"[{'id': 1282, 'ime': 'Tony Goldwyn'}]",9.1,3869
+Zdravnikova vest,Simple Explanation,2009,45,"[{'id': 944981, 'ime': 'Greg Yaitanes'}]",9.1,2544
+Dosjeji X,Small Potatoes,1997,45,"[{'id': 92853, 'ime': 'Cliff Bole'}]",9.1,3135
+Kako sem spoznal vajino mamo,Spoiler Alert,2007,22,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.1,2812
+13 Reasons Why,"Tape 7, Side A",2017,60,"[{'id': 1547859, 'ime': 'Kyle Patrick Alvarez'}]",9.1,6452
+This Is Us,That'll Be the Day,2018,43,"[{'id': 3802, 'ime': 'Uta Briesewitz'}]",9.1,2005
+Outlander,The Battle Joined,2017,54,"[{'id': 536827, 'ime': 'Brendan Maher'}]",9.1,2524
+The Leftovers,The Book of Kevin,2017,64,"[{'id': 1460, 'ime': 'Mimi Leder'}]",9.1,2922
+Nadnaravno,The Born-Again Identity,2012,43,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.1,2732
+The Night Of,The Call of the Wild,2016,95,"[{'id': 1873, 'ime': 'Steven Zaillian'}]",9.1,3165
+Simpsonovi,The City of New York vs. Homer Simpson,1997,30,"[{'id': 714114, 'ime': 'Jim Reardon'}]",9.1,2578
+Daredevil,The Dark at the End of the Tunnel,2016,52,"[{'id': 528186, 'ime': 'Euros Lyn'}]",9.1,4920
+South Park,The Death of Eric Cartman,2005,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.1,2452
+Doctor Who,The Doctor Dances,2005,45,"[{'id': 369949, 'ime': 'James Hawes'}]",9.1,5591
+Doctor Who,The Doctor's Wife,2011,47,"[{'id': 164407, 'ime': 'Richard Clark'}]",9.1,5564
+Doctor Who,The Empty Child,2005,45,"[{'id': 369949, 'ime': 'James Hawes'}]",9.1,6115
+Dosjeji X,The Erlenmeyer Flask,1994,46,"[{'id': 329535, 'ime': 'R.W. Goodwin'}]",9.1,3581
+Igra prestolov,The Gift,2015,59,"[{'id': 764601, 'ime': 'Miguel Sapochnik'}]",9.1,18807
+Seinfeld,The Hamptons,1994,23,"[{'id': 156013, 'ime': 'Tom Cherones'}]",9.1,2006
+Homeland,The Litvinov Ruse,2015,55,"[{'id': 3163, 'ime': 'Tucker Gates'}]",9.1,2027
+Puscica,The Man Under the Hood,2014,42,"[{'id': 1168394, 'ime': 'Jesse Warn'}]",9.1,3826
+Nadnaravno,The Man Who Knew Too Much,2011,43,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.1,2647
+Nadnaravno,The Man Who Would Be King,2011,60,"[{'id': 249421, 'ime': 'Ben Edlund'}]",9.1,2739
+Skrivnostni otok,The Man from Tallahassee,2007,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.1,3886
+Star Trek: The Next Generation,The Measure of a Man,1989,45,"[{'id': 770474, 'ime': 'Robert Scheerer'}]",9.1,2793
+Doctor Who,The Name of the Doctor,2013,44,"[{'id': 582792, 'ime': 'Saul Metzstein'}]",9.1,5722
+Doctor Who,The Night of the Doctor,2013,7,"[{'id': 2691857, 'ime': 'John Hayes'}]",9.1,2803
+Igra prestolov,The Old Gods and the New,2012,54,"[{'id': 638354, 'ime': 'David Nutter'}]",9.1,16948
+Prijatelji,The One in Vegas: Part 2,1999,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.1,2856
+Prijatelji,The One the Morning After,1997,22,"[{'id': 123273, 'ime': 'James Burrows'}]",9.1,3175
+Prijatelji,The One with All the Resolutions,1999,22,"[{'id': 5344, 'ime': 'Joe Regalbuto'}]",9.1,2889
+Prijatelji,The One with Monica and Chandler's Wedding: Part 2,2001,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.1,2753
+Prijatelji,The One with Ross's Sandwich,1998,22,"[{'id': 357143, 'ime': 'Gary Halvorson'}]",9.1,2991
+Prijatelji,The One with Unagi,2000,22,"[{'id': 357143, 'ime': 'Gary Halvorson'}]",9.1,3269
+Prijatelji,The One with the Flashback,1996,22,"[{'id': 94288, 'ime': 'Peter Bonerz'}]",9.1,3266
+Prijatelji,The One with the Football,1996,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.1,3542
+Prijatelji,The One with the Jellyfish,1997,22,"[{'id': 421675, 'ime': 'Shelley Jensen'}]",9.1,3163
+Prijatelji,The One with the Red Sweater,2001,22,"[{'id': 1710, 'ime': 'David Schwimmer'}]",9.1,2625
+Doctor Who,The Pandorica Opens,2010,49,"[{'id': 1595284, 'ime': 'Toby Haynes'}]",9.1,4981
+Doctor Who,The Parting of the Ways,2005,45,"[{'id': 13878, 'ime': 'Joe Ahearne'}]",9.1,5315
+Igra prestolov,The Pointy End,2011,59,"[{'id': 590889, 'ime': 'Daniel Minahan'}]",9.1,17786
+The Flash,The Race of His Life,2016,40,"[{'id': 624423, 'ime': 'Antonio Negret'}]",9.1,5196
+Beg iz zapora,The Rat,2006,60,"[{'id': 393661, 'ime': 'Kevin Hooks'}]",9.1,2574
+Puscica,The Scientist,2013,45,"[{'id': 776317, 'ime': 'Michael Schultz'}]",9.1,4299
+Sopranovi,The Second Coming,2007,51,"[{'id': 887700, 'ime': 'Timothy Van Patten'}]",9.1,2160
+Nadnaravno,The Song Remains the Same,2010,60,"[{'id': 102434, 'ime': 'Steve Boyum'}]",9.1,2911
+Simpsonovi,The Springfield Files,1997,30,"[{'id': 601901, 'ime': 'Steven Dean Moore'}]",9.1,2438
+Veliki pokovci,The Staircase Implementation,2010,20,"[{'id': 148252, 'ime': 'Mark Cendrowski'}]",9.1,3159
+Doctor Who,The Stolen Earth,2008,45,"[{'id': 363865, 'ime': 'Graeme Harper'}]",9.1,4961
+Outlander,The Wedding,2014,54,"[{'id': 283816, 'ime': 'Anna Foerster'}]",9.1,4596
+Igra prestolov,The Wolf and the Lion,2011,55,"[{'id': 1047532, 'ime': 'Brian Kirk'}]",9.1,19214
+Skrivnostni otok,There's No Place Like Home: Part 1,2008,43,"[{'id': 931724, 'ime': 'Stephen Williams'}]",9.1,3615
+Obmocje somraka,Time Enough at Last,1959,25,"[{'id': 103975, 'ime': 'John Brahm'}]",9.1,3974
+South Park,Trapped in the Closet,2005,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.1,3229
+Simpsonovi,Treehouse of Horror V,1994,30,"[{'id': 714114, 'ime': 'Jim Reardon'}]",9.1,2453
+Igra prestolov,Two Swords,2014,58,"[{'id': 1888967, 'ime': 'D.B. Weiss'}, {'id': 1125275, 'ime': 'David Benioff'}]",9.1,22577
+Outlander,Wentworth Prison,2015,57,"[{'id': 283816, 'ime': 'Anna Foerster'}]",9.1,2674
+Sense8,What Is Human?,2015,54,"[{'id': 905154, 'ime': 'Lana Wachowski'}, {'id': 905152, 'ime': 'Lilly Wachowski'}]",9.1,3615
+The Flash,Who Is Harrison Wells?,2015,42,"[{'id': 7096, 'ime': 'Wendey Stanzler'}]",9.1,4969
+Fargo,Who Shaves the Barber?,2014,47,"[{'id': 934525, 'ime': 'Scott Winant'}]",9.1,5339
+Simpsonovi,Who Shot Mr. Burns? Part One,1995,30,"[{'id': 528335, 'ime': 'Jeffrey Lynch'}]",9.1,2301
+Better Call Saul,Witness,2017,51,"[{'id': 319213, 'ime': 'Vince Gilligan'}]",9.1,4178
+South Park,Woodland Critter Christmas,2004,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.1,2942
+Mr. Robot,eps2.4_m4ster-s1ave.aes,2016,50,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.1,4194
+Mr. Robot,eps3.6_fredrick+tanya.chk,2017,47,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.1,2600
+Lov na osumljenca,2 Pi R,2013,44,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.0,2307
+Lov na osumljenca,4C,2014,44,"[{'id': 931724, 'ime': 'Stephen Williams'}]",9.0,2249
+Zivi mrtveci,A,2014,42,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.0,11813
+Igra prestolov,A Man Without Honor,2012,56,"[{'id': 638354, 'ime': 'David Nutter'}]",9.0,16402
+The Leftovers,A Matter of Geography,2015,56,"[{'id': 1460, 'ime': 'Mimi Leder'}]",9.0,2774
+Jessica Jones,AKA WWJD?,2015,50,"[{'id': 148116, 'ime': 'Simon Cellan Jones'}]",9.0,4171
+Zdravnikova vest,Airborne,2007,60,"[{'id': 444709, 'ime': 'Elodie Keene'}]",9.0,2072
+Gotham,All Happy Families Are Alike,2015,45,"[{'id': 134176, 'ime': 'Danny Cannon'}]",9.0,3410
+Zdravnikova vest,Alone,2007,43,"[{'id': 764776, 'ime': 'Deran Sarafian'}]",9.0,2233
+Dark,Alpha and Omega,2017,57,"[{'id': 2171633, 'ime': 'Baran bo Odar'}]",9.0,2429
+The Blacklist,Anslo Garrick (No. 16): Conclusion,2013,42,"[{'id': 914368, 'ime': 'Michael W. Watkins'}]",9.0,2030
+Fargo,Aporia,2017,51,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.0,2848
+Sopranovi,Army of One,2001,60,"[{'id': 666274, 'ime': 'John Patterson'}]",9.0,2068
+Star Trek,Balance of Terror,1966,50,"[{'id': 568546, 'ime': 'Vincent McEveety'}]",9.0,2886
+Daredevil,Bang,2016,48,"[{'id': 8971, 'ime': 'Phil Abraham'}]",9.0,6741
+Homeland,Beirut Is Back,2012,48,"[{'id': 191147, 'ime': 'Michael Cuesta'}]",9.0,2673
+Kriva pota,Better Call Saul,2009,47,"[{'id': 568192, 'ime': 'Terry McDonough'}]",9.0,11616
+The 100,Bodyguard of Lies,2015,43,"[{'id': 3802, 'ime': 'Uta Briesewitz'}]",9.0,3714
+Nadnaravno,Book of the Damned,2015,43,"[{'id': 675894, 'ime': 'P.J. Pesce'}]",9.0,2080
+Better Call Saul,Breathe,2018,45,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.0,2938
+Kriva pota,Buried,2013,48,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",9.0,13401
+South Park,Cartman Joins NAMBLA,2000,22,"[{'id': 832833, 'ime': 'Eric Stough'}]",9.0,2220
+Star Trek: The Next Generation,Cause and Effect,1992,46,"[{'id': 408, 'ime': 'Jonathan Frakes'}]",9.0,2267
+Legion,Chapter 1,2017,70,"[{'id': 1279638, 'ime': 'Noah Hawley'}]",9.0,5292
+House of Cards,Chapter 22,2014,49,"[{'id': 149, 'ime': 'Jodie Foster'}]",9.0,3405
+House of Cards,Chapter 25,2014,48,"[{'id': 1226, 'ime': 'James Foley'}]",9.0,3265
+House of Cards,Chapter 39,2015,58,"[{'id': 1226, 'ime': 'James Foley'}]",9.0,3818
+House of Cards,Chapter 42,2016,54,"[{'id': 705, 'ime': 'Robin Wright'}]",9.0,2966
+Narcos,Checkmate,2017,52,"[{'id': 2239581, 'ime': 'Gabriel Ripstein'}]",9.0,2246
+South Park,Christian Rock Hard,2003,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.0,2359
+Ozark,"Coffee, Black",2017,59,"[{'id': 867, 'ime': 'Jason Bateman'}]",9.0,2162
+Dosjeji X,Colony,1995,45,"[{'id': 545763, 'ime': 'Nick Marck'}]",9.0,3005
+Better Call Saul,Coushatta,2018,52,"[{'id': 570995, 'ime': 'Jim McKay'}]",9.0,2279
+Community,Critical Film Studies,2011,21,"[{'id': 1547964, 'ime': 'Richard Ayoade'}]",9.0,2107
+Daredevil,Cut Man,2015,53,"[{'id': 8971, 'ime': 'Phil Abraham'}]",9.0,8337
+Battlestar Galactica,Daybreak: Part 2 & 3,2009,103,"[{'id': 753382, 'ime': 'Michael Rymer'}]",9.0,2342
+Nepremagljivi dvojec,Denial,2015,43,"[{'id': 188929, 'ime': 'Anton Cropper'}]",9.0,2133
+Fargo,"Did You Do This? No, You Did It!",2015,61,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.0,4458
+Dexter,Dirty Harry,2009,49,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.0,2876
+Skrivnostni otok,Do No Harm,2005,43,"[{'id': 931724, 'ime': 'Stephen Williams'}]",9.0,3901
+Dexter,Do You See What I See?,2012,57,"[{'id': 1093, 'ime': 'John Dahl'}]",9.0,3018
+Nepremagljivi dvojec,Dog Fight,2011,45,"[{'id': 106230, 'ime': 'Kevin Bray'}]",9.0,2021
+Hannibal,Dolce,2015,44,"[{'id': 622112, 'ime': 'Vincenzo Natali'}]",9.0,3012
+Dosjeji X,Dreamland II,1998,45,"[{'id': 914368, 'ime': 'Michael W. Watkins'}]",9.0,2553
+Igra prestolov,Eastwatch,2017,59,"[{'id': 787687, 'ime': 'Matt Shakman'}]",9.0,28966
+The 100,Eden,2018,42,"[{'id': 924693, 'ime': 'Dean White'}]",9.0,2305
+Sopranovi,Employee of the Month,2001,53,"[{'id': 666274, 'ime': 'John Patterson'}]",9.0,2274
+Dosjeji X,End Game,1995,45,"[{'id': 101385, 'ime': 'Rob Bowman'}]",9.0,2930
+Beg iz zapora,"English, Fitz or Percy",2005,60,"[{'id': 957198, 'ime': 'Randy Zisk'}]",9.0,2826
+The Flash,Enter Flashtime,2018,41,"[{'id': 808376, 'ime': 'Gregory Smith'}]",9.0,2643
+Twin Peaks,Episode #1.3,1990,47,"[{'id': 186, 'ime': 'David Lynch'}]",9.0,3554
+Taboo,Episode #1.7,2017,57,"[{'id': 257775, 'ime': 'Anders Engström'}]",9.0,2675
+Peaky Blinders,Episode #3.3,2016,58,"[{'id': 2139803, 'ime': 'Tim Mielants'}]",9.0,2075
+Peaky Blinders,Episode #3.4,2016,54,"[{'id': 2139803, 'ime': 'Tim Mielants'}]",9.0,2044
+Narcos,Explosivos,2015,49,"[{'id': 1223381, 'ime': 'Andrés Baiz'}]",9.0,3979
+Better Call Saul,Fall,2017,49,"[{'id': 819083, 'ime': 'Minkie Spiro'}]",9.0,3378
+The Flash,Fallout,2015,42,"[{'id': 839660, 'ime': 'Stephen Surjik'}]",9.0,4757
+Lucifer,Favorite Son,2016,43,"[{'id': 1601, 'ime': 'David Paymer'}]",9.0,3124
+The Handmaid's Tale,First Blood,2018,58,"[{'id': 54954, 'ime': 'Mike Barker'}]",9.0,2132
+Nadnaravno,Form and Void,2015,43,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.0,2143
+Homeland,From A to B and Back Again,2014,49,"[{'id': 322128, 'ime': 'Lesli Linka Glatter'}]",9.0,2485
+The Leftovers,Guest,2014,51,"[{'id': 2083, 'ime': 'Carl Franklin'}]",9.0,3051
+Buffy - Izganjalka vampirjev,Halloween,1997,44,"[{'id': 337675, 'ime': 'Bruce Seth Green'}]",9.0,2436
+Skrivnostni otok,Happily Ever After,2010,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.0,3497
+Puscica,Haunted,2015,42,"[{'id': 824, 'ime': 'John Badham'}]",9.0,3876
+Nadnaravno,Holy Terror,2013,42,"[{'id': 942869, 'ime': 'Thomas J. Wright'}]",9.0,2358
+Dosjeji X,Home,1996,44,"[{'id': 543129, 'ime': 'Kim Manners'}]",9.0,4067
+Nadnaravno,Home,2005,43,"[{'id': 320987, 'ime': 'Ken Girotti'}]",9.0,3752
+Simpsonovi,Homer Badman,1994,30,"[{'id': 528335, 'ime': 'Jeffrey Lynch'}]",9.0,2263
+Simpsonovi,Homer the Great,1995,30,"[{'id': 714114, 'ime': 'Jim Reardon'}]",9.0,2068
+Simpsonovi,Homer the Heretic,1992,30,"[{'id': 714114, 'ime': 'Jim Reardon'}]",9.0,2376
+Lucifer,Homewrecker,2016,43,"[{'id': 66439, 'ime': 'Greg Beeman'}]",9.0,2114
+Kako sem spoznal vajino mamo,How I Met Everyone Else,2007,22,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.0,2883
+Doctor Who,Human Nature,2007,45,"[{'id': 1266701, 'ime': 'Charlie Palmer'}]",9.0,5386
+Nadnaravno,Hunteri Heroici,2012,43,"[{'id': 250267, 'ime': 'Paul A. Edwards'}]",9.0,2669
+Sense8,I Have No Room in My Heart for Hate,2017,61,"[{'id': 574625, 'ime': 'James McTeigue'}]",9.0,2054
+The Flash,I Know Who You Are,2017,42,"[{'id': 191697, 'ime': 'Hanelle M. Culpepper'}]",9.0,3239
+Nadnaravno,I Think I'm Gonna Like It Here,2013,42,"[{'id': 795288, 'ime': 'John F. Showalter'}]",9.0,3114
+South Park,Imaginationland,2007,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.0,2954
+South Park,Imaginationland: Episode II,2007,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.0,2441
+South Park,Imaginationland: Episode III,2007,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.0,2429
+Dexter,In the Beginning,2010,53,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.0,2872
+Sopranovi,Isabella,1999,48,"[{'id': 2339, 'ime': 'Allen Coulter'}]",9.0,2596
+Sense8,"Isolated Above, Connected Below",2017,67,"[{'id': 905154, 'ime': 'Lana Wachowski'}]",9.0,2099
+The Leftovers,"It's a Matt, Matt, Matt, Matt World",2017,55,"[{'id': 975026, 'ime': 'Nicole Kassell'}]",9.0,2504
+The Handmaid's Tale,June,2018,56,"[{'id': 54954, 'ime': 'Mike Barker'}]",9.0,2617
+Nadnaravno,Just My Imagination,2015,42,"[{'id': 817620, 'ime': 'Richard Speight Jr.'}]",9.0,2422
+Hannibal,Kaiseki,2014,42,"[{'id': 6853, 'ime': 'Tim Hunter'}]",9.0,4014
+Sopranovi,Kennedy and Heidi,2007,51,"[{'id': 851930, 'ime': 'Alan Taylor'}]",9.0,2356
+Beg iz zapora,Killing Your Number,2009,43,"[{'id': 393661, 'ime': 'Kevin Hooks'}]",9.0,2659
+Simpsonovi,King Size Homer,1995,30,"[{'id': 714114, 'ime': 'Jim Reardon'}]",9.0,2202
+Igra prestolov,Kissed by Fire,2013,57,"[{'id': 336241, 'ime': 'Alex Graves'}]",9.0,16484
+Skrivnostni otok,LaFleur,2009,43,"[{'id': 325845, 'ime': 'Mark Goldman'}]",9.0,3702
+Zdravnikova vest,Lines in the Sand,2006,60,"[{'id': 5875, 'ime': 'Newton Thomas Sigel'}]",9.0,2140
+Doctor Who,Listen,2014,47,"[{'id': 533559, 'ime': 'Douglas Mackinnon'}]",9.0,6017
+Shadowhunters: The Mortal Instruments,Major Arcana,2016,42,"[{'id': 197703, 'ime': 'J. Miles Dale'}]",9.0,2830
+Beg iz zapora,Manhunt,2006,41,"[{'id': 393661, 'ime': 'Kevin Hooks'}]",9.0,2843
+American Crime Story,"Marcia, Marcia, Marcia",2016,51,"[{'id': 614682, 'ime': 'Ryan Murphy'}]",9.0,2383
+Simpsonovi,Marge vs. the Monorail,1993,30,"[{'id': 601781, 'ime': 'Rich Moore'}]",9.0,2755
+This Is Us,Memphis,2017,43,"[{'id': 275629, 'ime': 'Glenn Ficarra'}, {'id': 720135, 'ime': 'John Requa'}]",9.0,3131
+Doctor Who,Midnight,2008,45,"[{'id': 1488618, 'ime': 'Alice Troughton'}]",9.0,5903
+Dosjeji X,Monday,1999,45,"[{'id': 543129, 'ime': 'Kim Manners'}]",9.0,2713
+Igra prestolov,Mother's Mercy,2015,60,"[{'id': 638354, 'ime': 'David Nutter'}]",9.0,28993
+Nadnaravno,My Bloody Valentine,2010,60,"[{'id': 737517, 'ime': 'Mike Rohl'}]",9.0,2740
+Lucifer,My Little Monkey,2016,43,"[{'id': 923423, 'ime': 'Tara Nicole Weyr'}]",9.0,2174
+Hannibal,Naka-Choko,2014,44,"[{'id': 622112, 'ime': 'Vincenzo Natali'}]",9.0,3382
+Nadnaravno,Nightshifter,2007,47,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.0,3168
+Daredevil,No Good Deed,2018,50,"[{'id': 315298, 'ime': 'Jennifer Getzinger'}]",9.0,2192
+Firefly,Objects in Space,2002,44,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.0,3878
+Zdravnikova vest,"One Day, One Room",2007,60,"[{'id': 2728, 'ime': 'Juan José Campanella'}]",9.0,3532
+Dosjeji X,One Son,1999,44,"[{'id': 101385, 'ime': 'Rob Bowman'}]",9.0,2234
+The Night Of,Ordinary Death,2016,56,"[{'id': 1873, 'ime': 'Steven Zaillian'}]",9.0,2480
+Twin Peaks,Part 11,2017,57,"[{'id': 186, 'ime': 'David Lynch'}]",9.0,2818
+Twin Peaks,Part 14,2017,56,"[{'id': 186, 'ime': 'David Lynch'}]",9.0,2648
+Community,Physical Education,2010,21,"[{'id': 751577, 'ime': 'Anthony Russo'}]",9.0,2042
+Beg iz zapora,Pilot,2005,42,"[{'id': 711840, 'ime': 'Brett Ratner'}]",9.0,4603
+This Is Us,Pilot,2016,43,"[{'id': 275629, 'ime': 'Glenn Ficarra'}, {'id': 720135, 'ime': 'John Requa'}]",9.0,4123
+Daredevil,Please,2018,50,"[{'id': 262210, 'ime': 'Lukas Ettlin'}]",9.0,2359
+Penny Dreadful,Possession,2014,59,"[{'id': 369949, 'ime': 'James Hawes'}]",9.0,2499
+Buffy - Izganjalka vampirjev,Prophecy Girl,1997,45,"[{'id': 923736, 'ime': 'Joss Whedon'}]",9.0,2315
+Puscica,Public Enemy,2015,42,"[{'id': 514546, 'ime': 'Dwight H. Little'}]",9.0,3618
+Star Trek: The Next Generation,Q Who,1989,46,"[{'id': 101385, 'ime': 'Rob Bowman'}]",9.0,2402
+Hannibal,Relevés,2013,44,"[{'id': 753382, 'ime': 'Michael Rymer'}]",9.0,3349
+Outlander,Rent,2014,57,"[{'id': 446232, 'ime': 'Brian Kelly'}]",9.0,3733
+Dexter,Return to Sender,2006,53,"[{'id': 1282, 'ime': 'Tony Goldwyn'}]",9.0,3864
+Family Guy,Road to the Multiverse,2009,30,"[{'id': 1108814, 'ime': 'Greg Colton'}, {'id': 1398960, 'ime': 'James Purdum'}, {'id': 793804, 'ime': 'Peter Shin'}]",9.0,2363
+Lov na osumljenca,Root Cause,2012,44,"[{'id': 3557, 'ime': 'Richard J. Lewis'}]",9.0,2681
+The Flash,Rupture,2016,42,"[{'id': 1090220, 'ime': 'Armen V. Kevorkian'}]",9.0,4075
+Nadnaravno,Salvation,2006,60,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.0,3251
+Dark,Sic Mundus Creatus Est,2017,51,"[{'id': 2171633, 'ime': 'Baran bo Odar'}]",9.0,2407
+Narcos,Sin Salida,2017,50,"[{'id': 2036500, 'ime': 'Fernando Coimbra'}]",9.0,2102
+Once Upon a Time,Skin Deep,2012,45,"[{'id': 156838, 'ime': 'Milan Cheylov'}]",9.0,2230
+Kako sem spoznal vajino mamo,Slapsgiving,2007,22,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.0,2760
+Buffy - Izganjalka vampirjev,Something Blue,1999,43,"[{'id': 545763, 'ime': 'Nick Marck'}]",9.0,2079
+The 100,Spacewalker,2014,43,"[{'id': 795288, 'ime': 'John F. Showalter'}]",9.0,3828
+Igra prestolov,Stormborn,2017,59,"[{'id': 617042, 'ime': 'Mark Mylod'}]",9.0,29784
+Preacher,Sundowner,2016,42,"[{'id': 622897, 'ime': 'Guillermo Navarro'}]",9.0,2164
+Outlander,Surrender,2017,55,"[{'id': 315298, 'ime': 'Jennifer Getzinger'}]",9.0,2032
+Nadnaravno,Survival of the Fittest,2012,42,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.0,2706
+Kako sem spoznal vajino mamo,Swarley,2006,23,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.0,3169
+Beg iz zapora,Sweet Caroline,2007,60,"[{'id': 514546, 'ime': 'Dwight H. Little'}]",9.0,2283
+Nadnaravno,Sympathy for the Devil,2009,60,"[{'id': 802033, 'ime': 'Robert Singer'}]",9.0,2944
+13 Reasons Why,"Tape 6, Side A",2017,54,"[{'id': 950506, 'ime': 'Jessica Yu'}]",9.0,5606
+Star Trek: The Next Generation,Tapestry,1993,45,"[{'id': 484464, 'ime': 'Les Landau'}]",9.0,2051
+Dexter,Teenage Wasteland,2010,55,"[{'id': 225416, 'ime': 'Ernest R. Dickerson'}]",9.0,2844
+Veliki pokovci,The Adhesive Duck Deficiency,2009,21,"[{'id': 148252, 'ime': 'Mark Cendrowski'}]",9.0,3216
+Doctor Who,The Angels Take Manhattan,2012,44,"[{'id': 403541, 'ime': 'Nick Hurran'}]",9.0,5815
+Skrivnostni otok,The Beginning of the End,2008,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.0,4646
+Seinfeld,The Betrayal,1997,24,"[{'id': 9953, 'ime': 'Andy Ackerman'}]",9.0,2075
+Puscica,The Calm,2014,42,"[{'id': 935732, 'ime': 'Glen Winter'}]",9.0,5176
+Skrivnostni otok,The Candidate,2010,43,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.0,3703
+Zivi mrtveci,The Day Will Come When You Won't Be,2016,46,"[{'id': 630524, 'ime': 'Greg Nicotero'}]",9.0,33231
+Doctor Who,The Doctor Falls,2017,60,"[{'id': 3080, 'ime': 'Rachel Talalay'}]",9.0,2994
+Sherlock,The Empty Hearse,2014,88,"[{'id': 522634, 'ime': 'Jeremy Lovering'}]",9.0,25220
+Dosjeji X,The End,1998,46,"[{'id': 329535, 'ime': 'R.W. Goodwin'}]",9.0,2313
+Kako sem spoznal vajino mamo,The End of the Aisle,2014,22,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.0,3316
+Nadnaravno,The Executioner's Song,2015,42,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.0,2340
+Extras,The Extra Special Series Finale,2007,84,"[{'id': 315041, 'ime': 'Ricky Gervais'}, {'id': 580351, 'ime': 'Stephen Merchant'}]",9.0,2024
+Zivi mrtveci,The Grove,2014,42,"[{'id': 766349, 'ime': 'Michael E. Satrazemis'}]",9.0,12240
+The Grand Tour,The Holy Trinity,2016,71,"[{'id': 1656402, 'ime': 'Phil Churchward'}]",9.0,4454
+Pisarna,The Injury,2006,22,"[{'id': 330057, 'ime': 'Bryan Gordon'}]",9.0,2790
+Beg iz zapora,The Killing Box,2006,44,"[{'id': 744794, 'ime': 'Bobby Roth'}]",9.0,2300
+Skrivnostni otok,The Life and Death of Jeremy Bentham,2009,46,"[{'id': 70474, 'ime': 'Jack Bender'}]",9.0,3536
+Seinfeld,The Limo,1992,23,"[{'id': 156013, 'ime': 'Tom Cherones'}]",9.0,2068
+Pravi detektiv,The Long Bright Dark,2014,58,"[{'id': 1560977, 'ime': 'Cary Joji Fukunaga'}]",9.0,13988
+Veliki pokovci,The Maternal Capacitance,2009,21,"[{'id': 148252, 'ime': 'Mark Cendrowski'}]",9.0,2865
+Obmocje somraka,The Monsters Are Due on Maple Street,1960,25,"[{'id': 935636, 'ime': 'Ron Winston'}]",9.0,3046
+Ameriska grozljivka,The Name Game,2013,40,"[{'id': 499724, 'ime': 'Michael Lehmann'}]",9.0,3943
+Shingeki no kyojin,"The Night of the Closing Ceremony: Humanity's Comeback, Part 2",2013,24,"[{'id': 2013928, 'ime': 'Tetsurô Araki'}, {'id': 2516860, 'ime': 'Makoto Bessho'}]",9.0,2005
+BoJack Horseman,The Old Sugarman Place,2017,25,"[{'id': 1702188, 'ime': 'Anne Walker Farrell'}]",9.0,2151
+Prijatelji,The One Where No One's Ready,1996,22,"[{'id': 541562, 'ime': 'Gail Mancuso'}]",9.0,3523
+Prijatelji,The One Where Paul's the Man,2000,22,"[{'id': 357143, 'ime': 'Gary Halvorson'}]",9.0,2750
+Prijatelji,The One Where Ross Finds Out,1995,22,"[{'id': 94288, 'ime': 'Peter Bonerz'}]",9.0,3224
+Prijatelji,The One Where the Stripper Cries,2004,22,"[{'id': 109159, 'ime': 'Kevin Bright'}]",9.0,2818
+Prijatelji,The One with All the Kissing,1998,22,"[{'id': 357143, 'ime': 'Gary Halvorson'}]",9.0,2801
+Prijatelji,The One with the Blackout,1994,22,"[{'id': 123273, 'ime': 'James Burrows'}]",9.0,4138
+Prijatelji,The One with the Two Parties,1996,22,"[{'id': 501185, 'ime': 'Michael Lembeck'}]",9.0,3128
+Skrivnostni otok,The Other 48 Days,2005,46,"[{'id': 485637, 'ime': 'Eric Laneuville'}]",9.0,3950
+Nadnaravno,The Rapture,2009,40,"[{'id': 66596, 'ime': 'Charles Beeson'}]",9.0,2750
+Rick and Morty,The Ricks Must Be Crazy,2015,23,"[{'id': 688913, 'ime': 'Dominic Polcino'}, {'id': 585086, 'ime': 'Pete Michels'}]",9.0,7387
+Sherlock,The Sign of Three,2014,86,"[{'id': 1142073, 'ime': 'Colm McCarthy'}]",9.0,21858
+Wayward Pines,The Truth,2015,44,"[{'id': 1226, 'ime': 'James Foley'}]",9.0,2225
+Rick and Morty,The Wedding Squanchers,2015,23,"[{'id': 33741, 'ime': 'Wesley Archer'}, {'id': 585086, 'ime': 'Pete Michels'}]",9.0,7675
+Oglasevalci,The Wheel,2007,52,"[{'id': 1980806, 'ime': 'Matthew Weiner'}]",9.0,2036
+Dexter,There's Something About Harry,2007,55,"[{'id': 793455, 'ime': 'Steve Shill'}]",9.0,3188
+Shadowhunters: The Mortal Instruments,This World Inverted,2016,42,"[{'id': 197703, 'ime': 'J. Miles Dale'}]",9.0,2395
+Outlander,"Through a Glass, Darkly",2016,59,"[{'id': 406177, 'ime': 'Metin Hüseyin'}]",9.0,2398
+Kako sem spoznal vajino mamo,Tick Tick Tick,2011,22,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",9.0,3041
+Nadnaravno,Time After Time,2012,43,"[{'id': 4223, 'ime': 'Philip Sgriccia'}]",9.0,2582
+Oranzna je nova crna,Trust No Bitch,2015,88,"[{'id': 8971, 'ime': 'Phil Abraham'}]",9.0,2341
+South Park,Tsst,2006,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",9.0,2556
+The Leftovers,Two Boats and a Helicopter,2014,51,"[{'id': 330360, 'ime': 'Keith Gordon'}]",9.0,3574
+Skrivnostni otok,Two for the Road,2006,43,"[{'id': 250267, 'ime': 'Paul A. Edwards'}]",9.0,3680
+Lucifer,Vegas With Some Radish,2017,43,"[{'id': 4610, 'ime': 'Karen Gaviola'}]",9.0,2022
+Fargo,Waiting for Dutch,2015,53,"[{'id': 251848, 'ime': 'Randall Einhorn'}, {'id': 881461, 'ime': 'Michael Uppendahl'}]",9.0,6769
+The 100,We Are Grounders: Part 2,2014,42,"[{'id': 924693, 'ime': 'Dean White'}]",9.0,3678
+The Newsroom,We Just Decided To,2012,70,"[{'id': 609549, 'ime': 'Greg Mottola'}]",9.0,2544
+Sense8,We Will All Be Judged by the Courage of Our Hearts,2015,50,"[{'id': 321922, 'ime': 'Dan Glass'}]",9.0,3397
+Lucifer,Weaponizer,2016,44,"[{'id': 4610, 'ime': 'Karen Gaviola'}]",9.0,2322
+Sense8,What's Going On?,2015,55,"[{'id': 878756, 'ime': 'Tom Tykwer'}]",9.0,4000
+Simpsonovi,Who Shot Mr. Burns? Part Two,1995,30,"[{'id': 33741, 'ime': 'Wesley Archer'}]",9.0,2082
+Sopranovi,Whoever Did This,2002,58,"[{'id': 887700, 'ime': 'Timothy Van Patten'}]",9.0,2260
+Band of Brothers,Why We Fight,2001,55,"[{'id': 291205, 'ime': 'David Frankel'}]",9.0,4355
+Igra prestolov,Winter Is Coming,2011,62,"[{'id': 887700, 'ime': 'Timothy Van Patten'}]",9.0,26382
+The Defenders,Worst Behavior,2017,55,"[{'id': 387486, 'ime': 'Peter Hoar'}]",9.0,3506
+The 100,Ye Who Enter Here,2016,42,"[{'id': 624423, 'ime': 'Antonio Negret'}]",9.0,4713
+Mr. Robot,eps2.3_logic-b0mb.hc,2016,51,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.0,3630
+Mr. Robot,eps2.9_pyth0n-pt2.p7z,2016,47,"[{'id': 1322753, 'ime': 'Sam Esmail'}]",9.0,3469
+Skrivna naveza,-30-,2008,93,"[{'id': 424800, 'ime': 'Clark Johnson'}]",8.9,3067
+Hannibal,...And the Beast from the Sea,2015,44,"[{'id': 753382, 'ime': 'Michael Rymer'}]",8.9,2395
+Hannibal,...And the Woman Clothed in Sun,2015,44,"[{'id': 622897, 'ime': 'Guillermo Navarro'}]",8.9,2443
+Daredevil,.380,2016,55,"[{'id': 839660, 'ime': 'Stephen Surjik'}]",8.9,4767
+Kriva pota,4 Days Out,2009,47,"[{'id': 533713, 'ime': 'Michelle MacLaren'}]",8.9,11435
+Dosjeji X,731,1995,45,"[{'id': 101385, 'ime': 'Rob Bowman'}]",8.9,2660
+Skrivnostni otok,?,2006,46,"[{'id': 764776, 'ime': 'Deran Sarafian'}]",8.9,3499
+Shadowhunters: The Mortal Instruments,A Door Into the Dark,2017,42,"[{'id': 938490, 'ime': 'Andy Wolk'}]",8.9,2016
+It's Always Sunny in Philadelphia,A Very Sunny Christmas,2009,43,"[{'id': 625, 'ime': 'Fred Savage'}]",8.9,2879
+The Handmaid's Tale,A Woman's Place,2017,55,"[{'id': 797455, 'ime': 'Floria Sigismondi'}]",8.9,2727
+Jessica Jones,"AKA 1,000 Cuts",2015,46,"[{'id': 735504, 'ime': 'Rosemary Rodriguez'}]",8.9,4022
+Dexter,About Last Night,2008,51,"[{'id': 6853, 'ime': 'Tim Hunter'}]",8.9,2785
+South Park,All About Mormons,2003,22,"[{'id': 5295, 'ime': 'Trey Parker'}]",8.9,2248
+Zdravnikova vest,All In,2006,44,"[{'id': 314104, 'ime': 'Fred Gerber'}]",8.9,2037
+Skrivnostni otok,All the Best Cowboys Have Daddy Issues,2004,42,"[{'id': 931724, 'ime': 'Stephen Williams'}]",8.9,3846
+Dexter,Argentina,2012,58,"[{'id': 864268, 'ime': 'Romeo Tirone'}]",8.9,3380
+Zdravnikova vest,Babies & Bathwater,2005,44,"[{'id': 424594, 'ime': 'Bill Johnson'}]",8.9,2025
+Shadowhunters: The Mortal Instruments,Bad Blood,2016,42,"[{'id': 154819, 'ime': 'Jeremiah S. Chechik'}]",8.9,2543
+Kako sem spoznal vajino mamo,Bad News,2011,30,"[{'id': 296945, 'ime': 'Pamela Fryman'}]",8.9,2799
+Skrivnostni otok,Because You Left,2009,43,"[{'id': 931724, 'ime': 'Stephen Williams'}]",8.9,3962
+Zivi mrtveci,Better Angels,2012,43,"[{'id': 272704, 'ime': 'Guy Ferland'}]",8.9,9820
+Better Call Saul,Bingo,2015,47,"[{'id': 2326979, 'ime': 'Larysa Kondracki'}]",8.9,5865
+South Park,Black Friday,2013,23,"[{'id': 5295, 'ime': 'Trey Parker'}]",8.9,2238
+Pravi detektiv,Black Maps and Motel Rooms,2015,64,"[{'id': 3733, 'ime': 'Daniel Attias'}]",8.9,7122
+Shadowhunters: The Mortal Instruments,Blood Calls to Blood,2016,42,"[{'id': 21772, 'ime': 'Mairzee Almas'}]",8.9,2289
+The 100,Blood Must Have Blood: Part 1,2015,43,"[{'id': 534850, 'ime': 'Omar Madha'}]",8.9,3540
+Beg iz zapora,Bluff,2006,60,"[{'id': 3167, 'ime': 'Jace Alexander'}]",8.9,2437
+Nadnaravno,Born Under a Bad Sign,2007,50,"[{'id': 864936, 'ime': 'J. Miller Tobin'}]",8.9,3031
