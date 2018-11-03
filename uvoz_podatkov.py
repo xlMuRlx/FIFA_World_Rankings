@@ -94,6 +94,10 @@ def pocisti_podatke(podatki):
     podatki['zanr'] = podatki['zanr'].strip().split(', ')
     podatki['ocena'] = float(podatki['ocena'])
     podatki['reziserji'] = izloci_osebe(podatki['reziserji'])
+    pomozni_seznam = []
+    for reziser in podatki['reziserji']:
+        pomozni_seznam.append(reziser['ime'])
+    podatki['reziserji'] = pomozni_seznam
     podatki['st_glasov'] = int(podatki['st_glasov'].replace(',', ''))
     return podatki
 
@@ -127,4 +131,4 @@ orodja.zapisi_json(zapis_serij, 'vse_epizode.json')
 
 orodja.zapisi_csv(zapis_serij, ["serija", "epizoda", "leto", "dolzina", "reziserji",
     "ocena", "st_glasov"], 'vse_epizode.csv')
-orodja.zapisi_csv(zanri, ['serija', 'zanr'], 'zanri.csv')
+orodja.zapisi_csv(zanri, ["serija", "zanr"], 'zanri.csv')
