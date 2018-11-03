@@ -44,7 +44,8 @@ def poisci_epizode(niz):
 
 vzorec_epizode = re.compile(
     r"<span class=\"lister-item-index unbold text-primary\">"
-    r"\d+\.</span>.*?<a href=.*?>(?P<serija>.+?)</a>.*?"
+    r"(?P<uvrstitev>.*?)\.</span>.*?"
+    r"<a href=.*?>(?P<serija>.+?)</a>.*?"
     r"</small>.*?<a href=.*?>(?P<epizoda>.+?)</a>.*?"
     r"<span class=\"lister-item-year text-muted unbold\">\(\D*?\s?(?P<leto>\d+)\)</span>.*?"
     r"(<span class=\"runtime\">?(?P<dolzina>.*?) min</span>?.*?)?"
@@ -82,6 +83,8 @@ def izloci_zanre(epizode):
 
 
 def pocisti_podatke(podatki):
+    podatki['uvrstitev'] = podatki['uvrstitev'].replace(',', '')
+    podatki['uvrstitev'] = int(podatki['uvrstitev'])
     podatki['serija'] = podatki['serija'].strip()
     podatki['epizoda'] = podatki['epizoda'].strip()
     podatki['leto'] = int(podatki['leto'])
@@ -129,6 +132,6 @@ zanri = posodobi_zanre
 
 orodja.zapisi_json(zapis_serij, 'vse_epizode.json')
 
-orodja.zapisi_csv(zapis_serij, ["serija", "epizoda", "leto", "dolzina", "reziserji",
+orodja.zapisi_csv(zapis_serij, ["uvrstitev", "serija", "epizoda", "leto", "dolzina", "reziserji",
     "ocena", "st_glasov"], 'vse_epizode.csv')
 orodja.zapisi_csv(zanri, ["serija", "zanr"], 'zanri.csv')
