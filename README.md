@@ -3,12 +3,13 @@
 V projektni nalogi bom analiziral epizode televizijskih serij, ki imajo na strani IMDb vsaj 2000 glasov. Podatke bom pridobil iz strani: https://www.imdb.com/search/title?num_votes=2000,&sort=user_rating,desc&title_type=tv_episode
 
 Za vsako epizodo bom razbral:
+* uvrstitev
 * naslov serije
 * naslov epizode in leto njenega izida
 * dolžino epizode
 * zvrst
 * število glasov
-* režiser
+* režiserje
 
 
 Delovne hipoteze:
