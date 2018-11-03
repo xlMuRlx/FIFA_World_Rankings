@@ -141,6 +141,7 @@ for element in zanri:
 
 zanri = posodobi_zanre
 
+zapis_serij.sort(key=lambda epizoda: epizoda['id'])
 
 orodja.zapisi_csv(zapis_serij, ["id", "serija", "epizoda", "leto", "dolzina",
     "ocena", "st_glasov"], 'vse_epizode.csv')
