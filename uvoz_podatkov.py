@@ -44,9 +44,9 @@ def poisci_epizode(niz):
 
 vzorec_epizode = re.compile(
     r"<span class=\"lister-item-index unbold text-primary\">"
-    r"(?P<uvrstitev>.*?)\.</span>.*?"
-    r"<a href=.*?>(?P<serija>.+?)</a>.*?"
-    r"</small>.*?<a href=.*?>(?P<epizoda>.+?)</a>.*?"
+    r"\d*,?\d*\.</span>.*?<a href=.*?>(?P<serija>.+?)</a>.*?"
+    r"</small>.*?<a href=\"/title/tt(?P<id>\d+)/\?ref_=adv_li_tt\"[^>]*?"
+    r">(?P<epizoda>.+?)</a>.*?"
     r"<span class=\"lister-item-year text-muted unbold\">\(\D*?\s?(?P<leto>\d+)\)</span>.*?"
     r"(<span class=\"runtime\">?(?P<dolzina>.*?) min</span>?.*?)?"
     r"<span class=\"genre\">(?P<zanr>.+?)</span>.*?"
@@ -82,9 +82,16 @@ def izloci_zanre(epizode):
     return zanri
 
 
+def izloci_reziserje(epizode):
+    vloge = []
+    for element in epizode:
+        for reziser in element.pop('reziserji'):
+            vloge.append({'epizoda': element['id'], 'reziser': reziser['ime']})
+    vloge.sort(key=lambda vloga: (vloga['epizoda'], vloga['reziser']))
+    return vloge
+
+
 def pocisti_podatke(podatki):
-    podatki['uvrstitev'] = podatki['uvrstitev'].replace(',', '')
-    podatki['uvrstitev'] = int(podatki['uvrstitev'])
     podatki['serija'] = podatki['serija'].strip()
     podatki['epizoda'] = podatki['epizoda'].strip()
     podatki['leto'] = int(podatki['leto'])
@@ -97,10 +104,6 @@ def pocisti_podatke(podatki):
     podatki['zanr'] = podatki['zanr'].strip().split(', ')
     podatki['ocena'] = float(podatki['ocena'])
     podatki['reziserji'] = izloci_osebe(podatki['reziserji'])
-    pomozni_seznam = []
-    for reziser in podatki['reziserji']:
-        pomozni_seznam.append(reziser['ime'])
-    podatki['reziserji'] = pomozni_seznam
     podatki['st_glasov'] = int(podatki['st_glasov'].replace(',', ''))
     return podatki
 
@@ -112,8 +115,22 @@ for i in range(0, len(razbitje)):
         podatki_epizode = pocisti_podatke(ujemanje.groupdict())
         zapis_serij.append(podatki_epizode)
 
-zanri = izloci_zanre(zapis_serij)
 
+
+###############################################################################
+# Podatke zapišemo v json datoteko.
+###############################################################################
+
+orodja.zapisi_json(zapis_serij, 'vse_epizode.json')
+
+
+
+###############################################################################
+# Nato pa jih dokončno predelamo in zapišemo še v csv datoteke.
+###############################################################################
+
+zanri = izloci_zanre(zapis_serij)
+vloge = izloci_reziserje(zapis_serij)
 
 # Znebimo se nepotrebnih ponovitev zapisa žanrov posamezne serije
 
@@ -125,13 +142,7 @@ for element in zanri:
 zanri = posodobi_zanre
 
 
-
-###############################################################################
-# Podatke še zapišemo v csv in json datoteki.
-###############################################################################
-
-orodja.zapisi_json(zapis_serij, 'vse_epizode.json')
-
-orodja.zapisi_csv(zapis_serij, ["uvrstitev", "serija", "epizoda", "leto", "dolzina", "reziserji",
+orodja.zapisi_csv(zapis_serij, ["id", "serija", "epizoda", "leto", "dolzina",
     "ocena", "st_glasov"], 'vse_epizode.csv')
+orodja.zapisi_csv(vloge, ["epizoda", "reziser"], 'reziserji.csv')    
 orodja.zapisi_csv(zanri, ["serija", "zanr"], 'zanri.csv')
