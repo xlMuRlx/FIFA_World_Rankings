@@ -7,7 +7,7 @@ Za vsako epizodo bom razbral:
 * naslov serije
 * naslov epizode in leto njenega izida
 * dolžino epizode
-* žan
+* žanr
 * število glasov
 * režiserje
 
