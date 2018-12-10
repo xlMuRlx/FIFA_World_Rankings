@@ -86,8 +86,8 @@ def izloci_reziserje(epizode):
     vloge = []
     for element in epizode:
         for reziser in element.pop('reziserji'):
-            vloge.append({'epizoda': element['id'], 'reziser': reziser['ime']})
-    vloge.sort(key=lambda vloga: (vloga['epizoda'], vloga['reziser']))
+            vloge.append({'id': element['id'], 'reziser': reziser['ime']})
+    vloge.sort(key=lambda vloga: (vloga['id'], vloga['reziser']))
     return vloge
 
 
@@ -145,5 +145,5 @@ zapis_serij.sort(key=lambda epizoda: epizoda['id'])
 
 orodja.zapisi_csv(zapis_serij, ["id", "serija", "epizoda", "leto", "dolzina",
     "ocena", "st_glasov"], 'vse_epizode.csv')
-orodja.zapisi_csv(vloge, ["epizoda", "reziser"], 'reziserji.csv')    
+orodja.zapisi_csv(vloge, ["id", "reziser"], 'reziserji.csv')    
 orodja.zapisi_csv(zanri, ["serija", "zanr"], 'zanri.csv')
