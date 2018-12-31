@@ -25,9 +25,9 @@ Nato pa bom serije razdelil na komične in nekomične, pri čemer bom sklepal, d
 * Katere serije so bolj gledane?
 
 
-**Komentar**: Za razbiranje igralcev vsake epizode se nisem odločil, saj se ponavadi igralci v isti seriji pojavljajo v (skoraj) vsaki epizodi, torej bi s tem prišel do nepotrebnega ponavljanja podatkov. To, da se neka serija pojavi večkrat, namreč razberemo že z naslovom serije.
+**Komentar**: Za razbiranje igralcev vsake epizode se nisem odločil, saj se ponavadi igralci v isti seriji pojavljajo v (skoraj) vsaki epizodi, torej bi s tem prišel do nepotrebnega ponavljanja podatkov. To, da se neka serija pojavi večkrat, namreč razberemo že iz ponavljanja epizod le-te.
 
 
 ## Uvoz podatkov
 
-Po uvozu podatkov s pomočjo datoteke `uvoz_podatkov.py` sem pridobil želene podatke, ki sem jih shranil v 3 različne csv datoteke ter eno skupno json datoteko. Datoteka `vse_epizode.json` torej vsebuje vse podatke za posamezno epizodo, datoteka `vse_epizode.csv` pa ji je zelo podobna, vendar slednja ne vsebuje režiserjev in zvrsti za posamezno epizodo, saj imamo v ta namen še dve pomožno datoteki. Prva, `reziserji.csv`, vsebuje id posamezne serije ter njene režiserje, druga, `zanri.csv` pa za vsako serijo pove njene žanre. Pri tem je bilo seveda nesmiselno shranjevati žanre za posamezne epizode, saj imajo vse epizode iste serije iste žanre.
+Po uvozu podatkov s pomočjo datoteke `uvoz_podatkov.py` sem pridobil želene podatke, ki sem jih shranil v 3 različne csv datoteke ter eno skupno json datoteko. Datoteka `vse_epizode.json` torej vsebuje vse podatke za posamezno epizodo, datoteka `vse_epizode.csv` pa ji je zelo podobna, vendar slednja ne vsebuje režiserjev in zvrsti za posamezno epizodo, saj imamo v ta namen še dve pomožno datoteki. Prva, `reziserji.csv`, vsebuje id posamezne epizode ter njene režiserje, druga, `zanri.csv` pa za vsako serijo pove njene žanre. Pri tem je bilo seveda nesmiselno shranjevati žanre za posamezne epizode, saj imajo vse epizode iste serije iste žanre.
